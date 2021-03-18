@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-19 02:03+0800\n"
+"PO-Revision-Date: 2021-03-19 03:19+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -196,11 +196,11 @@ msgstr ""
 
 #: AI.cpp:3539
 msgid "Autopilot: landing on %1%."
-msgstr ""
+msgstr "自动驾驶：正在着陆于 %1%。"
 
 #: AI.cpp:3573
 msgid "You do not have a hyperdrive installed."
-msgstr ""
+msgstr "你没有"
 
 #: AI.cpp:3579
 msgid "You cannot jump to the selected system."
@@ -282,15 +282,15 @@ msgstr ""
 #: BankPanel.cpp:157
 msgctxt "BankPanel"
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 #: BankPanel.cpp:177
 msgid "[pay extra]"
-msgstr ""
+msgstr "[还款]"
 
 #: BankPanel.cpp:191
 msgid "Crew Salaries"
-msgstr ""
+msgstr "船员薪水"
 
 #: BankPanel.cpp:196 BankPanel.cpp:213
 msgid "(overdue)"
@@ -319,7 +319,7 @@ msgstr ""
 
 #: BankPanel.cpp:226
 msgid "Your Salary Income"
-msgstr ""
+msgstr "你的薪水"
 
 #: BankPanel.cpp:226
 msgid "Your Tribute Income"
@@ -331,7 +331,7 @@ msgstr ""
 
 #: BankPanel.cpp:238
 msgid "total:"
-msgstr ""
+msgstr "总计："
 
 # パネル内の説明文もヘルプとおなじくですます調。
 #: BankPanel.cpp:244
@@ -967,7 +967,7 @@ msgstr ""
 #: Engine.cpp:1823
 msgctxt "Engine"
 msgid "Landing on %1%."
-msgstr ""
+msgstr "正在着陆于 %1%。"
 
 #: Engine.cpp:2067
 msgctxt "pick up"
@@ -1145,7 +1145,7 @@ msgstr ""
 
 #: HailPanel.cpp:305
 msgid "I do not want your money."
-msgstr ""
+msgstr "我不要你的钱。"
 
 #: ItemInfoDisplay.cpp:37
 msgctxt "ItemInfoDisplay NOUN"
@@ -1885,22 +1885,22 @@ msgstr ""
 
 #: MissionPanel.cpp:558
 msgid "Selected system: unexplored system"
-msgstr ""
+msgstr "选择的星系：未探索星系"
 
 #: MissionPanel.cpp:560
 msgid "Selected system: %1%"
-msgstr ""
+msgstr "选择的星系：%1%"
 
 # この手前にくる星系名が半角だと、ふつうの空白にするとPANGOで化ける
 # 広めのEN SPACEにする
 #: MissionPanel.cpp:570
 msgid " (1 jump away)"
 msgid_plural " (%1% jumps away)"
-msgstr[0] " （%1% 次跳跃）"
+msgstr[0] " （%1% 次跃迁）"
 
 #: MissionPanel.cpp:701
 msgid "%1% tons"
-msgstr ""
+msgstr "%1% 吨"
 
 #: MissionPanel.cpp:702
 msgid "%1% bunks"
@@ -1930,11 +1930,11 @@ msgstr ""
 
 #: Mortgage.cpp:45 Mortgage.cpp:69
 msgid "Mortgage"
-msgstr ""
+msgstr "抵押贷款"
 
 #: NPC.cpp:438
 msgid "Mission failed."
-msgstr ""
+msgstr "任务失败。"
 
 #: Outfit.cpp:107
 msgid "Guns"
@@ -3188,7 +3188,7 @@ msgstr "持有数量"
 
 #: TradingPanel.cpp:119
 msgid "free:"
-msgstr "空闲空间："
+msgstr "空闲："
 
 #: TradingPanel.cpp:139
 msgid "%1% %2% of mission cargo and other items."
