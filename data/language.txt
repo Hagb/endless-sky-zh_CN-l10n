@@ -1,0 +1,20 @@
+# Copyright © 2021 by Hagb and OOTA, Masato
+#
+# This plugin is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# This plugin is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+language zh_CN
+	name "简体中文"
+	"font description" "Noto Sans CJK SC"
+	"fullname"
+		" <first> <last> "
+		"<first>・<last>"
+		"<last><first>"
+		"<last> <first>"
+	lang zh_CN
+
