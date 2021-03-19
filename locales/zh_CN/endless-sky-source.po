@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-19 03:19+0800\n"
+"PO-Revision-Date: 2021-03-20 01:31+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -180,7 +180,7 @@ msgstr ""
 #: AI.cpp:3418
 msgctxt "AI"
 msgid "Landing on %1%."
-msgstr ""
+msgstr "正在着陆于 %1%。"
 
 #: AI.cpp:3449
 msgid "Landing on a local wormhole to navigate to the %1% system."
@@ -188,7 +188,7 @@ msgstr ""
 
 #: AI.cpp:3454
 msgid "selected star"
-msgstr ""
+msgstr "选择的星球"
 
 #: AI.cpp:3458
 msgid "Engaging autopilot to jump to the %1% system."
@@ -200,7 +200,7 @@ msgstr "自动驾驶：正在着陆于 %1%。"
 
 #: AI.cpp:3573
 msgid "You do not have a hyperdrive installed."
-msgstr "你没有"
+msgstr "你没有安装曲速推进器。"
 
 #: AI.cpp:3579
 msgid "You cannot jump to the selected system."
@@ -220,7 +220,7 @@ msgstr[0] "你的僚机正 "
 msgctxt "IssueOrders"
 msgid "The selected escort is "
 msgid_plural "The selected escorts are "
-msgstr[0] "选择的僚机正"
+msgstr[0] "选择的僚机正 "
 
 #: AI.cpp:3854
 msgctxt "IssueOrders"
@@ -294,7 +294,7 @@ msgstr "船员薪水"
 
 #: BankPanel.cpp:196 BankPanel.cpp:213
 msgid "(overdue)"
-msgstr ""
+msgstr "（未支付）"
 
 #: BankPanel.cpp:209
 msgctxt "BankPanel"
@@ -336,7 +336,7 @@ msgstr "总计："
 # パネル内の説明文もヘルプとおなじくですます調。
 #: BankPanel.cpp:244
 msgid "Your credit score is %1%."
-msgstr ""
+msgstr "你的信用点为 %1%。"
 
 #: BankPanel.cpp:252
 msgid "You do not qualify for further loans at this time."
@@ -359,11 +359,11 @@ msgstr ""
 
 #: BankPanel.cpp:296
 msgid "Borrow how many credits?"
-msgstr ""
+msgstr "借入多少信用点？"
 
 #: BoardingPanel.cpp:111
 msgid "This is not a ship that you can capture."
-msgstr ""
+msgstr "这艘舰船你无法捕获。"
 
 #: BoardingPanel.cpp:303
 msgid ""
@@ -1482,48 +1482,48 @@ msgstr ""
 
 #: MapDetailPanel.cpp:419 MapDetailPanel.cpp:504
 msgid "Friendly"
-msgstr ""
+msgstr "友好"
 
 #: MapDetailPanel.cpp:425 MapDetailPanel.cpp:503
 msgid "Hostile"
-msgstr ""
+msgstr "敌对"
 
 #: MapDetailPanel.cpp:429 MapDetailPanel.cpp:504
 msgid "Restricted"
-msgstr ""
+msgstr "受限"
 
 #: MapDetailPanel.cpp:433 MapDetailPanel.cpp:502
 msgid "Dominated"
-msgstr ""
+msgstr "支配"
 
 #: MapDetailPanel.cpp:438
 msgid "Uninhabited"
-msgstr ""
+msgstr "无人居住"
 
 #: MapDetailPanel.cpp:442
 msgid "Unexplored"
-msgstr ""
+msgstr "未探索"
 
 #: MapDetailPanel.cpp:463
 msgctxt "MapDetailPanel"
 msgid "Unexplored System"
-msgstr ""
+msgstr "未探索星系"
 
 #: MapDetailPanel.cpp:469
 msgid "Unknown Government"
-msgstr ""
+msgstr "未知政府"
 
 #: MapDetailPanel.cpp:501
 msgid "No Spaceport"
-msgstr ""
+msgstr "没有航空港"
 
 #: MapDetailPanel.cpp:512
 msgid "Shipyard"
-msgstr ""
+msgstr "造船厂"
 
 #: MapDetailPanel.cpp:519
 msgid "Outfitter"
-msgstr ""
+msgstr "装备商"
 
 #: MapDetailPanel.cpp:527
 msgid "(has been visited)"
@@ -1560,20 +1560,20 @@ msgstr ""
 
 #: MapOutfitterPanel.cpp:40
 msgid "Has no outfitter"
-msgstr ""
+msgstr "没有装备商"
 
 #: MapOutfitterPanel.cpp:40
 msgid "Has outfitter"
-msgstr ""
+msgstr "有装备商"
 
 #: MapOutfitterPanel.cpp:40
 msgid "Sells this outfit"
-msgstr ""
+msgstr "售出装备"
 
 #: MapOutfitterPanel.cpp:202
 msgctxt "MapOUtfitterPanel"
 msgid " credits"
-msgstr ""
+msgstr " 信用点"
 
 #: MapOutfitterPanel.cpp:206
 msgid "(Mined from asteroids)"
@@ -1582,17 +1582,17 @@ msgstr ""
 #: MapOutfitterPanel.cpp:210
 msgctxt "kind of outfit"
 msgid "outfit"
-msgstr ""
+msgstr "装备"
 
 #: MapOutfitterPanel.cpp:212
 msgctxt "kind of outfit"
 msgid "weapon"
-msgstr ""
+msgstr "武器"
 
 #: MapOutfitterPanel.cpp:214
 msgctxt "kind of outfit"
 msgid "engine"
-msgstr ""
+msgstr "引擎"
 
 #: MapOutfitterPanel.cpp:215
 #, fuzzy
@@ -1606,7 +1606,7 @@ msgstr "你没有可行的路径到达该星系。"
 
 #: MapPanel.cpp:206
 msgid "You have not yet mapped a route to this system."
-msgstr ""
+msgstr "你的地图上尚未绘制到该星系的路径。"
 
 #: MapPanel.cpp:254
 msgctxt "MapPanel"
@@ -1631,7 +1631,7 @@ msgstr ""
 
 #: MapPanel.cpp:1186
 msgid "You are here."
-msgstr ""
+msgstr "你在此处。"
 
 #: MapPanel.cpp:1192
 #, fuzzy
@@ -1938,31 +1938,31 @@ msgstr "任务失败。"
 
 #: Outfit.cpp:107
 msgid "Guns"
-msgstr ""
+msgstr "枪"
 
 #: Outfit.cpp:108
 msgid "Turrets"
-msgstr ""
+msgstr "炮塔"
 
 #: Outfit.cpp:109
 msgid "Secondary Weapons"
-msgstr ""
+msgstr "二级武器"
 
 #: Outfit.cpp:110
 msgid "Ammunition"
-msgstr ""
+msgstr "弹药"
 
 #: Outfit.cpp:111
 msgid "Systems"
-msgstr ""
+msgstr "系统"
 
 #: Outfit.cpp:112
 msgid "Power"
-msgstr ""
+msgstr "能源"
 
 #: Outfit.cpp:113
 msgid "Engines"
-msgstr ""
+msgstr "引擎"
 
 #: Outfit.cpp:114
 msgid "Hand to Hand"
@@ -1970,7 +1970,7 @@ msgstr ""
 
 #: Outfit.cpp:115
 msgid "Special"
-msgstr ""
+msgstr "特殊物品"
 
 #: OutfitInfoDisplay.cpp:125
 msgid "This outfit cannot be plundered."
@@ -2571,7 +2571,7 @@ msgstr "关"
 #: Preferences.cpp:45
 msgctxt "vsync"
 msgid "on"
-msgstr "トン开"
+msgstr "开"
 
 #: Preferences.cpp:45
 msgctxt "vsync"
@@ -2580,15 +2580,15 @@ msgstr ""
 
 #: Preferences.cpp:144
 msgid "frugally"
-msgstr ""
+msgstr "节约"
 
 #: Preferences.cpp:144
 msgid "always"
-msgstr ""
+msgstr "总是"
 
 #: Preferences.cpp:144
 msgid "never"
-msgstr ""
+msgstr "总不"
 
 #: PreferencesPanel.cpp:48
 msgid "Main zoom factor"
@@ -2628,15 +2628,15 @@ msgstr ""
 
 #: PreferencesPanel.cpp:62
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: PreferencesPanel.cpp:63
 msgid "Fullname format"
-msgstr ""
+msgstr "全名格式"
 
 #: PreferencesPanel.cpp:164
 msgid "Your screen resolution is too low to support a zoom level above 100%."
-msgstr ""
+msgstr "你的屏幕分辨率太低，不支持高于 100% 的缩放等级。"
 
 #: PreferencesPanel.cpp:183
 msgid ""
@@ -2646,51 +2646,51 @@ msgstr ""
 
 #: PreferencesPanel.cpp:318
 msgid "Navigation"
-msgstr ""
+msgstr "导航"
 
 #: PreferencesPanel.cpp:319
 msgid "Weapons"
-msgstr ""
+msgstr "武器"
 
 #: PreferencesPanel.cpp:320
 msgid "Targeting"
-msgstr ""
+msgstr "目标"
 
 #: PreferencesPanel.cpp:321
 msgid "Interface"
-msgstr ""
+msgstr "界面"
 
 #: PreferencesPanel.cpp:322
 msgid "Fleet"
-msgstr ""
+msgstr "舰队"
 
 #: PreferencesPanel.cpp:373
 msgid "Key"
-msgstr ""
+msgstr "按键"
 
 #: PreferencesPanel.cpp:414
 msgid "With &lt;shift&gt; key"
-msgstr ""
+msgstr "按下 &lt;shift&gt; 键"
 
 #: PreferencesPanel.cpp:416
 msgid "Select nearest ship"
-msgstr ""
+msgstr "选择最近的舰船"
 
 #: PreferencesPanel.cpp:417
 msgid "Select next escort"
-msgstr ""
+msgstr "选择最近的僚机"
 
 #: PreferencesPanel.cpp:418
 msgid "Talk to planet"
-msgstr ""
+msgstr "与行星通讯"
 
 #: PreferencesPanel.cpp:419
 msgid "Board disabled escort"
-msgstr ""
+msgstr "登上失能的僚机"
 
 #: PreferencesPanel.cpp:440
 msgid "Display"
-msgstr ""
+msgstr "显示"
 
 #: PreferencesPanel.cpp:444
 msgid "Show status overlays"
@@ -2698,7 +2698,7 @@ msgstr ""
 
 #: PreferencesPanel.cpp:445
 msgid "Highlight player's flagship"
-msgstr ""
+msgstr "高亮你的旗舰"
 
 #: PreferencesPanel.cpp:446
 msgid "Rotate flagship in HUD"
@@ -2706,11 +2706,11 @@ msgstr ""
 
 #: PreferencesPanel.cpp:447
 msgid "Show planet labels"
-msgstr ""
+msgstr "显示行星标签"
 
 #: PreferencesPanel.cpp:448
 msgid "Show mini-map"
-msgstr ""
+msgstr "显示小地图"
 
 #: PreferencesPanel.cpp:450
 msgid "AI"
@@ -2830,39 +2830,39 @@ msgstr "（没有描述。）"
 
 #: Ship.cpp:139
 msgid "Transport"
-msgstr ""
+msgstr "运输船"
 
 #: Ship.cpp:140
 msgid "Light Freighter"
-msgstr ""
+msgstr "轻型货船"
 
 #: Ship.cpp:141
 msgid "Heavy Freighter"
-msgstr ""
+msgstr "重型货船"
 
 #: Ship.cpp:142
 msgid "Interceptor"
-msgstr ""
+msgstr "截击机"
 
 #: Ship.cpp:143
 msgid "Light Warship"
-msgstr ""
+msgstr "轻型战船"
 
 #: Ship.cpp:144
 msgid "Medium Warship"
-msgstr ""
+msgstr "中型战船"
 
 #: Ship.cpp:145
 msgid "Heavy Warship"
-msgstr ""
+msgstr "重型战船"
 
 #: Ship.cpp:146
 msgid "Fighter"
-msgstr ""
+msgstr "战斗机"
 
 #: Ship.cpp:147
 msgid "Drone"
-msgstr ""
+msgstr "无人机"
 
 #: Ship.cpp:471
 msgctxt "ship"

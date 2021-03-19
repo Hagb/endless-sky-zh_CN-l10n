@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-22 20:57+0900\n"
-"PO-Revision-Date: 2021-03-19 00:40+0800\n"
+"PO-Revision-Date: 2021-03-20 00:08+0800\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -51396,20 +51396,20 @@ msgstr ""
 #: interfaces.txt:128
 msgctxt "interface"
 msgid "_Enter Ship"
-msgstr ""
+msgstr "继续旅程 (_E)"
 
 #. [button] in [interface]: "main menu"
 #. [button] in [interface]: "load menu"
 #: interfaces.txt:132 interfaces.txt:202
 msgctxt "interface"
 msgid "_New Pilot"
-msgstr ""
+msgstr "新旅人 (_N)"
 
 #. [button] in [interface]: "main menu"
 #: interfaces.txt:137
 msgctxt "interface"
 msgid "_Load / Save..."
-msgstr ""
+msgstr "加载 / 保存 (_L)"
 
 #. [button] in [interface]: "main menu"
 #: interfaces.txt:142
@@ -51421,73 +51421,73 @@ msgstr "退出 (_Q)"
 #: interfaces.txt:145
 msgctxt "interface"
 msgid "_Preferences..."
-msgstr "设定 (_p) ..."
+msgstr "设定 (_P)..."
 
 #. [label] in [interface]: "menu player info"
 #: interfaces.txt:155
 msgctxt "interface"
 msgid "pilot:"
-msgstr ""
+msgstr "旅人："
 
 #. [label] in [interface]: "menu player info"
 #: interfaces.txt:161
 msgctxt "interface"
 msgid "ship:"
-msgstr ""
+msgstr "旗舰："
 
 #. [label] in [interface]: "menu player info"
 #: interfaces.txt:167
 msgctxt "interface"
 msgid "planet:"
-msgstr ""
+msgstr "星球："
 
 #. [label] in [interface]: "menu player info"
 #: interfaces.txt:173
 msgctxt "interface"
 msgid "system:"
-msgstr ""
+msgstr "星系："
 
 #. [label] in [interface]: "menu player info"
 #: interfaces.txt:179
 msgctxt "interface"
 msgid "credits:"
-msgstr ""
+msgstr "信用点："
 
 #. [label] in [interface]: "menu player info"
 #: interfaces.txt:185
 msgctxt "interface"
 msgid "date:"
-msgstr ""
+msgstr "日期："
 
 #. [button] in [interface]: "load menu"
 #: interfaces.txt:206
 msgctxt "interface"
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #. [button] in [interface]: "load menu"
 #: interfaces.txt:211
 msgctxt "interface"
 msgid "_Add Snapshot"
-msgstr ""
+msgstr "存档 (_A)"
 
 #. [button] in [interface]: "load menu"
 #: interfaces.txt:215
 msgctxt "interface"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #. [button] in [interface]: "load menu"
 #: interfaces.txt:220
 msgctxt "interface"
 msgid "_Back to Menu"
-msgstr ""
+msgstr "返回主菜单 (_B)"
 
 #. [button] in [interface]: "load menu"
 #: interfaces.txt:224
 msgctxt "interface"
 msgid "_Load Game"
-msgstr ""
+msgstr "加载游戏 (_L)"
 
 #. [button] in [interface]: "controls"
 #. [button] in [interface]: "settings"
@@ -51495,7 +51495,7 @@ msgstr ""
 #: interfaces.txt:233 interfaces.txt:253 interfaces.txt:273
 msgctxt "interface"
 msgid "_Controls"
-msgstr ""
+msgstr "按键 (_C)"
 
 #. [button] in [interface]: "controls"
 #. [button] in [interface]: "settings"
@@ -51503,7 +51503,7 @@ msgstr ""
 #: interfaces.txt:237 interfaces.txt:258 interfaces.txt:278
 msgctxt "interface"
 msgid "_Settings"
-msgstr ""
+msgstr "游戏 (_S)"
 
 #. [button] in [interface]: "controls"
 #. [button] in [interface]: "settings"
@@ -51511,79 +51511,79 @@ msgstr ""
 #: interfaces.txt:242 interfaces.txt:262 interfaces.txt:283
 msgctxt "interface"
 msgid "_Plugins"
-msgstr ""
+msgstr "插件 (_P)"
 
 #. [button] in [interface]: "preferences"
 #: interfaces.txt:291
 msgctxt "interface"
 msgid "_Back to Menu..."
-msgstr ""
+msgstr "返回主菜单 (_B)..."
 
 #. [button] in [interface]: "planet"
 #: interfaces.txt:484
 msgctxt "interface"
 msgid "_Shipyard"
-msgstr ""
+msgstr "造 船 厂 (_S)"
 
 #. [button] in [interface]: "planet"
 #: interfaces.txt:494
 msgctxt "interface"
 msgid "_Outfitter"
-msgstr ""
+msgstr "装 备 商 (_O)"
 
 #. [button] in [interface]: "planet"
 #: interfaces.txt:504
 msgctxt "interface"
 msgid "_Job Board"
-msgstr ""
+msgstr "任务面板 (_J)"
 
 #. [button] in [interface]: "planet"
 #: interfaces.txt:512
 msgctxt "interface"
 msgid "_Hire Crew"
-msgstr ""
+msgstr "雇佣兵营地 (_H)"
 
 #. [button] in [interface]: "planet"
 #: interfaces.txt:522
 msgctxt "interface"
 msgid "_Trading"
-msgstr ""
+msgstr "交 易 所 (_T)"
 
 #. [button] in [interface]: "planet"
 #: interfaces.txt:532
 msgctxt "interface"
 msgid "_Bank"
-msgstr ""
+msgstr "银   行 (_B)"
 
 #. [button] in [interface]: "planet"
 #: interfaces.txt:542
 msgctxt "interface"
 msgid "Space_port"
-msgstr ""
+msgstr "航 空 港 (_P)"
 
 #. [button] in [interface]: "planet"
 #: interfaces.txt:552
 msgctxt "interface"
 msgid "_Depart"
-msgstr ""
+msgstr "离   开 (_D)"
 
 #. [label] in [interface]: "boarding"
 #: interfaces.txt:579
 msgctxt "interface"
 msgid "item"
-msgstr ""
+msgstr "物品"
 
 #. [label] in [interface]: "boarding"
 #: interfaces.txt:582
 msgctxt "interface"
 msgid "value"
-msgstr ""
+msgstr "价值"
 
 #. [label] in [interface]: "boarding"
 #: interfaces.txt:585
 msgctxt "interface"
 msgid "size"
-msgstr ""
+msgstr "尺寸"
 
 #. [label] in [interface]: "boarding"
 #. [label] in [interface]: "mission"
@@ -51596,31 +51596,31 @@ msgstr ""
 #: interfaces.txt:596
 msgctxt "interface"
 msgid "crew"
-msgstr ""
+msgstr "船员"
 
 #. [label] in [interface]: "boarding"
 #: interfaces.txt:599
 msgctxt "interface"
 msgid "attack"
-msgstr ""
+msgstr "攻击"
 
 #. [label] in [interface]: "boarding"
 #: interfaces.txt:602
 msgctxt "interface"
 msgid "defense"
-msgstr ""
+msgstr "防守"
 
 #. [label] in [interface]: "boarding"
 #: interfaces.txt:606
 msgctxt "interface"
 msgid "your ship:"
-msgstr ""
+msgstr "你的舰船："
 
 #. [label] in [interface]: "boarding"
 #: interfaces.txt:619
 msgctxt "interface"
 msgid "enemy ship:"
-msgstr ""
+msgstr "敌方舰船："
 
 #. [label] in [interface]: "boarding"
 #: interfaces.txt:632
@@ -51645,7 +51645,7 @@ msgstr ""
 #: interfaces.txt:659
 msgctxt "interface"
 msgid "_Take"
-msgstr ""
+msgstr "带走 (_T)"
 
 #. [button] in [interface]: "boarding"
 #. [button] in [interface]: "map buttons"
@@ -51654,7 +51654,7 @@ msgstr ""
 #: interfaces.txt:664 interfaces.txt:871 interfaces.txt:939 interfaces.txt:1012
 msgctxt "interface"
 msgid "_Done"
-msgstr ""
+msgstr "确认 (_D)"
 
 #. [button] in [interface]: "boarding"
 #: interfaces.txt:669
@@ -51666,31 +51666,31 @@ msgstr ""
 #: interfaces.txt:674
 msgctxt "interface"
 msgid "_Attack"
-msgstr ""
+msgstr "攻击 (_A)"
 
 #. [button] in [interface]: "boarding"
 #: interfaces.txt:679
 msgctxt "interface"
 msgid "_Defend"
-msgstr ""
+msgstr "防守 (_D)"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:687
 msgctxt "interface"
 msgid "flagship"
-msgstr ""
+msgstr "旗舰"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:691
 msgctxt "interface"
 msgid "entire fleet"
-msgstr ""
+msgstr "整支舰队"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:695
 msgctxt "interface"
 msgid "salary"
-msgstr ""
+msgstr "薪水"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:700
@@ -51702,25 +51702,25 @@ msgstr ""
 #: interfaces.txt:710
 msgctxt "interface"
 msgid "required crew"
-msgstr ""
+msgstr "必要船员"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:723
 msgctxt "interface"
 msgid "extra crew"
-msgstr ""
+msgstr "额外船员"
 
 #. [button] in [interface]: "hiring"
 #: interfaces.txt:736
 msgctxt "interface"
 msgid "_Hire"
-msgstr ""
+msgstr "雇佣 (_H)"
 
 #. [button] in [interface]: "hiring"
 #: interfaces.txt:743
 msgctxt "interface"
 msgid "_Fire"
-msgstr ""
+msgstr "解雇 (_F)"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:753
@@ -51732,7 +51732,7 @@ msgstr ""
 #: interfaces.txt:763
 msgctxt "interface"
 msgid "passengers"
-msgstr ""
+msgstr "乘客"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:770
@@ -51810,61 +51810,61 @@ msgstr ""
 #: interfaces.txt:859
 msgctxt "interface"
 msgid "M_issions"
-msgstr ""
+msgstr "任务 (_I)"
 
 #. [button] in [interface]: "map buttons"
 #: interfaces.txt:865
 msgctxt "interface"
 msgid "_Ports"
-msgstr ""
+msgstr "着陆点 (_P)"
 
 #. [button] in [interface]: "map buttons"
 #: interfaces.txt:877
 msgctxt "interface"
 msgid "_+"
-msgstr ""
+msgstr "_+"
 
 #. [button] in [interface]: "map buttons"
 #: interfaces.txt:881
 msgctxt "interface"
 msgid "_-"
-msgstr ""
+msgstr "_-"
 
 #. [label] in [interface]: "info panel"
 #: interfaces.txt:917
 msgctxt "interface"
 msgid "Ship Info"
-msgstr ""
+msgstr "舰船信息"
 
 #. [label] in [interface]: "info panel"
 #: interfaces.txt:920
 msgctxt "interface"
 msgid "Player _Info"
-msgstr ""
+msgstr "玩家信息 (_I)"
 
 #. [label] in [interface]: "info panel"
 #: interfaces.txt:929
 msgctxt "interface"
 msgid "_Ship Info"
-msgstr ""
+msgstr "舰船信息 (_S)"
 
 #. [label] in [interface]: "info panel"
 #: interfaces.txt:931
 msgctxt "interface"
 msgid "Player Info"
-msgstr ""
+msgstr "玩家信息"
 
 #. [button] in [interface]: "info panel"
 #: interfaces.txt:942
 msgctxt "interface"
 msgid "_Missions..."
-msgstr ""
+msgstr "任务 (_M)..."
 
 #. [button] in [interface]: "info panel"
 #: interfaces.txt:946
 msgctxt "interface"
 msgid "_Logbook..."
-msgstr ""
+msgstr "日志 (_L)..."
 
 #. [button] in [interface]: "info panel"
 #: interfaces.txt:952
