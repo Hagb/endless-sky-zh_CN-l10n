@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-20 19:27+0800\n"
+"PO-Revision-Date: 2021-03-21 01:35+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -321,11 +321,11 @@ msgstr "你的薪水"
 
 #: BankPanel.cpp:226
 msgid "Your Tribute Income"
-msgstr ""
+msgstr "你的贡品收入"
 
 #: BankPanel.cpp:227
 msgid "Your Salary and Tribute Income"
-msgstr ""
+msgstr "你的薪水和贡品收入"
 
 #: BankPanel.cpp:238
 msgid "total:"
@@ -912,7 +912,7 @@ msgstr "无法降落于："
 
 #: Engine.cpp:679
 msgid "Hyperspace:"
-msgstr "超空间传送："
+msgstr "超空间跃迁："
 
 #: Engine.cpp:683
 msgid "unexplored system"
@@ -966,7 +966,7 @@ msgstr "正在降落于 %1%。"
 #: Engine.cpp:2067
 msgctxt "pick up"
 msgid "You"
-msgstr ""
+msgstr "你"
 
 #: Engine.cpp:2068
 msgctxt "pick up"
@@ -1015,7 +1015,7 @@ msgstr "。请协助我们！"
 #. TRANSLATORS: "ItemInfoDisplay."
 #: GameData.cpp:969
 msgid "cost"
-msgstr ""
+msgstr "花费"
 
 #. TRANSLATORS: This translated string T("sells for") must be equal to the
 #. TRANSLATORS: begin of the translated string T("sells for (%1%%):") in the
@@ -1036,19 +1036,19 @@ msgstr ""
 
 #: HailPanel.cpp:61
 msgid "(There is no response to your hail.)"
-msgstr ""
+msgstr "(对你的信号没有回应)"
 
 #: HailPanel.cpp:63 HailPanel.cpp:137
 msgid "(An alien voice says something in a language you do not recognize.)"
-msgstr ""
+msgstr "(一个外星人的声音用你不懂的语言说了些什么)"
 
 #: HailPanel.cpp:71
 msgid "If you want us to leave you alone, it'll cost you %1% credits."
-msgstr ""
+msgstr "如果你要我们放过你，给我们 %1% 信用点。"
 
 #: HailPanel.cpp:79
 msgid "Sorry, we can't help you, because our ship is disabled."
-msgstr ""
+msgstr "抱歉，我们无法帮你，因为我们的船失能了。"
 
 #: HailPanel.cpp:105 HailPanel.cpp:262
 msgid "Hang on, we'll be there in a minute."
@@ -1062,7 +1062,7 @@ msgstr ""
 
 #: HailPanel.cpp:111
 msgid "patch you up and give you some fuel?"
-msgstr ""
+msgstr "帮你维修并给你一些燃料？"
 
 #: HailPanel.cpp:113
 msgid "give you some fuel?"
@@ -1070,7 +1070,7 @@ msgstr "给你一些燃料？"
 
 #: HailPanel.cpp:115
 msgid "patch you up?"
-msgstr ""
+msgstr "帮你维修？"
 
 #: HailPanel.cpp:132
 msgctxt "HailPanel planet"
@@ -1117,7 +1117,7 @@ msgstr ""
 
 #: HailPanel.cpp:274
 msgid "You don't seem to be in need of repairs or fuel assistance."
-msgstr ""
+msgstr "你看起来不需要维修或补充燃料。"
 
 #: HailPanel.cpp:284
 msgid "Sorry, but you don't have enough money to be worth my while."
@@ -1133,7 +1133,7 @@ msgstr ""
 
 #: HailPanel.cpp:302
 msgid "It's a pleasure doing business with you."
-msgstr ""
+msgstr "和你做生意很愉快。"
 
 #: HailPanel.cpp:305
 msgid "I do not want your money."
@@ -1142,12 +1142,12 @@ msgstr "我不要你的钱。"
 #: ItemInfoDisplay.cpp:37
 msgctxt "ItemInfoDisplay NOUN"
 msgid "outfit"
-msgstr ""
+msgstr "装备"
 
 #: ItemInfoDisplay.cpp:37
 msgctxt "ItemInfoDisplay NOUN"
 msgid "ship"
-msgstr ""
+msgstr "舰船"
 
 #. TRANSLATORS: This "vowel" determines whether 'a' or 'an' is used.
 #: ItemInfoDisplay.cpp:39
@@ -1638,10 +1638,9 @@ msgid_plural "%1% escorts"
 msgstr[0] "%1% 隻の僚船\n"
 
 #: MapPanel.cpp:1198
-#, fuzzy
 msgid "%1% parked escort"
 msgid_plural "%1% parked escorts"
-msgstr[0] "%1% 隻の駐機中の僚船\n"
+msgstr[0] "%1% 艘停泊的僚机"
 
 #: MapPanel.cpp:1203
 msgctxt "MapPanel"
@@ -1853,7 +1852,7 @@ msgstr "当前任务："
 
 #: MissionPanel.cpp:260
 msgid "Abort mission \"%1%\"?"
-msgstr "中止任务 “%1”？"
+msgstr "中止任务 “%1%”？"
 
 #: MissionPanel.cpp:528
 msgid "Available job; can accept"
@@ -1896,7 +1895,7 @@ msgstr "%1% 吨"
 
 #: MissionPanel.cpp:702
 msgid "%1% bunks"
-msgstr ""
+msgstr "%1% 人"
 
 #: MissionPanel.cpp:747
 msgid ""
@@ -2018,10 +2017,9 @@ msgid "excellent"
 msgstr ""
 
 #: OutfitterPanel.cpp:49
-#, fuzzy
 msgid " ton"
 msgid_plural " tons"
-msgstr[0] "トン"
+msgstr[0] " 吨"
 
 #: OutfitterPanel.cpp:170
 msgid "installed: %1%"
@@ -2229,11 +2227,11 @@ msgstr ""
 
 #: OutfitterPanel.cpp:813
 msgid "Show outfits for sale"
-msgstr ""
+msgstr "显示出售的装备"
 
 #: OutfitterPanel.cpp:819
 msgid "Show outfits in cargo"
-msgstr ""
+msgstr "显示货仓中的装备"
 
 #: OutfitterPanel.cpp:984
 msgid "Do you want to reload all the ammunition for your "
@@ -2247,15 +2245,15 @@ msgstr[0] " ?"
 
 #: OutfitterPanel.cpp:987
 msgid " It will cost %1% credits."
-msgstr ""
+msgstr " 这花费 %1% 信用点。"
 
 #: Planet.cpp:34
 msgid "wormhole"
-msgstr ""
+msgstr "虫洞"
 
 #: Planet.cpp:35
 msgid "planet"
-msgstr ""
+msgstr "行星"
 
 #: Planet.cpp:248
 msgctxt "Planet"
@@ -2264,11 +2262,11 @@ msgstr ""
 
 #: Planet.cpp:315
 msgid "moon"
-msgstr ""
+msgstr "卫星"
 
 #: Planet.cpp:315
 msgid "station"
-msgstr ""
+msgstr "空间站"
 
 #: Planet.cpp:570
 msgid "We are already paying you as much as we can afford."
@@ -2276,32 +2274,32 @@ msgstr ""
 
 #: Planet.cpp:572
 msgid "Please don't joke about that sort of thing."
-msgstr ""
+msgstr "请别拿这种事情开玩笑了。"
 
 #: Planet.cpp:574
 msgid "You're not worthy of our time."
-msgstr ""
+msgstr "你不值得我们花时间。"
 
 #: Planet.cpp:588
 msgid "Our defense fleet will make short work of you."
-msgstr ""
+msgstr "我们的防卫舰队会很快解决你的。"
 
 #: Planet.cpp:601
 msgid "We're not ready to surrender yet."
-msgstr ""
+msgstr "我们还不打算投降。"
 
 #: Planet.cpp:605
 msgid "We surrender. We will pay you %1% credits per day to leave us alone."
-msgstr ""
+msgstr "我们投降了。我们会每天给您支付 %1% 信用点，放过我们。"
 
 #: PlanetLabel.cpp:63
 msgid "(No government)"
-msgstr ""
+msgstr "(无政府)"
 
 #: PlanetPanel.cpp:309
 msgid "bunks available for 1 psssenger"
 msgid_plural "bunks available for %1% of the passengers"
-msgstr[0] ""
+msgstr[0] "可容纳 %1% 名乘客的客仓"
 
 #: PlanetPanel.cpp:316
 msgid " and not having enough "
@@ -2471,11 +2469,11 @@ msgstr ""
 
 #: PlayerInfoPanel.cpp:538
 msgid "cargo: "
-msgstr ""
+msgstr "货物： "
 
 #: PlayerInfoPanel.cpp:540
 msgid "fleet: "
-msgstr ""
+msgstr "舰队： "
 
 #: PlayerInfoPanel.cpp:547
 msgid "salary:"
@@ -2483,11 +2481,11 @@ msgstr "薪水："
 
 #: PlayerInfoPanel.cpp:552
 msgid "tribute:"
-msgstr ""
+msgstr "贡品："
 
 #: PlayerInfoPanel.cpp:557
 msgid "licenses:"
-msgstr ""
+msgstr "许可："
 
 #: PlayerInfoPanel.cpp:591
 msgctxt "PlayerInfoPanel HEADER"
@@ -2526,7 +2524,7 @@ msgstr ""
 
 #: PlayerInfoPanel.cpp:645
 msgid "Parked"
-msgstr ""
+msgstr "已停泊"
 
 #: Politics.cpp:239
 msgid " for carrying illegal cargo."
@@ -2686,7 +2684,7 @@ msgstr "显示"
 
 #: PreferencesPanel.cpp:444
 msgid "Show status overlays"
-msgstr ""
+msgstr "显示状态层"
 
 #: PreferencesPanel.cpp:445
 msgid "Highlight player's flagship"
@@ -2902,11 +2900,11 @@ msgstr ""
 
 #: ShipInfoDisplay.cpp:87
 msgid "energy"
-msgstr ""
+msgstr "能量"
 
 #: ShipInfoDisplay.cpp:88
 msgid "heat"
-msgstr ""
+msgstr "温度"
 
 #: ShipInfoDisplay.cpp:373
 msgid "This ship will sell for:"
@@ -2914,7 +2912,7 @@ msgstr ""
 
 #: ShipInfoPanel.cpp:153
 msgid "Change this ship's name?"
-msgstr ""
+msgstr "更改这艘船的名字？"
 
 #: ShipInfoPanel.cpp:164
 msgid ""
