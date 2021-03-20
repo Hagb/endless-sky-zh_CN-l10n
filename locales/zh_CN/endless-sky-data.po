@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-22 20:57+0900\n"
-"PO-Revision-Date: 2021-03-20 00:08+0800\n"
+"PO-Revision-Date: 2021-03-20 12:57+0800\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5305,7 +5305,7 @@ msgstr ""
 #: commodities.txt:12
 msgctxt "commodity"
 msgid "Food"
-msgstr ""
+msgstr "食物"
 
 #. [commodity] Food in [trade]
 #: commodities.txt:13
@@ -5815,7 +5815,7 @@ msgstr ""
 #: commodities.txt:97
 msgctxt "commodity"
 msgid "Clothing"
-msgstr ""
+msgstr "衣物"
 
 #. [commodity] Clothing in [trade]
 #: commodities.txt:98
@@ -6055,7 +6055,7 @@ msgstr ""
 #: commodities.txt:137
 msgctxt "commodity"
 msgid "Metal"
-msgstr ""
+msgstr "金属"
 
 #. [commodity] Metal in [trade]
 #: commodities.txt:138
@@ -6356,7 +6356,7 @@ msgstr ""
 #: commodities.txt:187
 msgctxt "commodity"
 msgid "Plastic"
-msgstr ""
+msgstr "塑料"
 
 #. [commodity] Plastic in [trade]
 #: commodities.txt:188
@@ -6585,7 +6585,7 @@ msgstr ""
 #: commodities.txt:225
 msgctxt "commodity"
 msgid "Equipment"
-msgstr ""
+msgstr "设备"
 
 #. [commodity] Equipment in [trade]
 #: commodities.txt:226
@@ -6975,7 +6975,7 @@ msgstr ""
 #: commodities.txt:290
 msgctxt "commodity"
 msgid "Medical"
-msgstr ""
+msgstr "医学用品"
 
 #. [commodity] Medical in [trade]
 #: commodities.txt:291
@@ -7221,7 +7221,7 @@ msgstr ""
 #: commodities.txt:331
 msgctxt "commodity"
 msgid "Industrial"
-msgstr ""
+msgstr "工业品"
 
 #. [commodity] Industrial in [trade]
 #: commodities.txt:332
@@ -7600,7 +7600,7 @@ msgstr ""
 #: commodities.txt:395
 msgctxt "commodity"
 msgid "Electronics"
-msgstr ""
+msgstr "电子器件"
 
 #. [commodity] Electronics in [trade]
 #: commodities.txt:396
@@ -7945,7 +7945,7 @@ msgstr ""
 #: commodities.txt:453
 msgctxt "commodity"
 msgid "Heavy Metals"
-msgstr ""
+msgstr "重金属"
 
 #. [commodity] Heavy Metals in [trade]
 #: commodities.txt:454
@@ -8071,7 +8071,7 @@ msgstr ""
 #: commodities.txt:474
 msgctxt "commodity"
 msgid "Luxury Goods"
-msgstr ""
+msgstr "奢侈品"
 
 #. [commodity] Luxury Goods in [trade]
 #: commodities.txt:475
@@ -51696,7 +51696,7 @@ msgstr "薪水"
 #: interfaces.txt:700
 msgctxt "interface"
 msgid "bunks"
-msgstr ""
+msgstr "船舱"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:710
@@ -51726,7 +51726,7 @@ msgstr "解雇 (_F)"
 #: interfaces.txt:753
 msgctxt "interface"
 msgid "passenger space"
-msgstr ""
+msgstr "客仓空间"
 
 #. [label] in [interface]: "hiring"
 #: interfaces.txt:763
@@ -51750,19 +51750,19 @@ msgstr ""
 #: interfaces.txt:781
 msgctxt "interface"
 msgid "Buy All"
-msgstr ""
+msgstr "卖出所有"
 
 #. [button] in [interface]: "trade"
 #: interfaces.txt:790
 msgctxt "interface"
 msgid "Sell All"
-msgstr ""
+msgstr "购买所有"
 
 #. [button] in [interface]: "trade"
 #: interfaces.txt:796
 msgctxt "interface"
 msgid "Sell Outfits"
-msgstr ""
+msgstr "卖出装备"
 
 #. [button] in [interface]: "bank"
 #: interfaces.txt:806
@@ -51774,37 +51774,37 @@ msgstr ""
 #: interfaces.txt:821
 msgctxt "interface"
 msgid "passenger space:"
-msgstr ""
+msgstr "客仓空间："
 
 #. [label] in [interface]: "mission"
 #: interfaces.txt:826
 msgctxt "interface"
 msgid "today's date:"
-msgstr ""
+msgstr "今天日期："
 
 #. [button] in [interface]: "mission"
 #: interfaces.txt:832
 msgctxt "interface"
 msgid "_Accept Mission"
-msgstr ""
+msgstr "接受任务 (_A)"
 
 #. [button] in [interface]: "mission"
 #: interfaces.txt:837
 msgctxt "interface"
 msgid "Abort"
-msgstr ""
+msgstr "中止"
 
 #. [button] in [interface]: "map buttons"
 #: interfaces.txt:847
 msgctxt "interface"
 msgid "_Shipyards"
-msgstr ""
+msgstr "造船厂 (_S)"
 
 #. [button] in [interface]: "map buttons"
 #: interfaces.txt:853
 msgctxt "interface"
 msgid "_Outfitters"
-msgstr ""
+msgstr "装备商 (_O)"
 
 #. [button] in [interface]: "map buttons"
 #: interfaces.txt:859
@@ -51816,7 +51816,7 @@ msgstr "任务 (_I)"
 #: interfaces.txt:865
 msgctxt "interface"
 msgid "_Ports"
-msgstr "着陆点 (_P)"
+msgstr "港口 (_P)"
 
 #. [button] in [interface]: "map buttons"
 #: interfaces.txt:877

@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-20 01:31+0800\n"
+"PO-Revision-Date: 2021-03-20 14:20+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -138,7 +138,7 @@ msgstr "关闭隐形设备。"
 
 #: AI.cpp:415
 msgid "holding position."
-msgstr "固定住位置。"
+msgstr "停在原位。"
 
 #: AI.cpp:421
 msgid "gathering around your flagship."
@@ -167,7 +167,7 @@ msgstr ""
 
 #: AI.cpp:3368
 msgid "Switching landing targets. Now landing on %1%."
-msgstr "切换着陆位置。现在正着陆于 %1%。"
+msgstr "切换降落位置。现在正降落于 %1%。"
 
 #: AI.cpp:3402
 msgid "There are no planets in this system that you can land on."
@@ -180,7 +180,7 @@ msgstr ""
 #: AI.cpp:3418
 msgctxt "AI"
 msgid "Landing on %1%."
-msgstr "正在着陆于 %1%。"
+msgstr "正在降落于 %1%。"
 
 #: AI.cpp:3449
 msgid "Landing on a local wormhole to navigate to the %1% system."
@@ -196,7 +196,7 @@ msgstr ""
 
 #: AI.cpp:3539
 msgid "Autopilot: landing on %1%."
-msgstr "自动驾驶：正在着陆于 %1%。"
+msgstr "自动驾驶：正在降落于 %1%。"
 
 #: AI.cpp:3573
 msgid "You do not have a hyperdrive installed."
@@ -204,23 +204,23 @@ msgstr "你没有安装曲速推进器。"
 
 #: AI.cpp:3579
 msgid "You cannot jump to the selected system."
-msgstr ""
+msgstr "你无法跃迁到选择的星系。"
 
 #: AI.cpp:3585
 msgid "You do not have enough fuel to make a hyperspace jump."
-msgstr ""
+msgstr "你没有足够燃料用于超空间跃迁。"
 
 #: AI.cpp:3765
 msgctxt "IssueOrders"
 msgid "Your escort is "
 msgid_plural "Your fleet is "
-msgstr[0] "你的僚机正 "
+msgstr[0] "你的僚机 "
 
 #: AI.cpp:3775
 msgctxt "IssueOrders"
 msgid "The selected escort is "
 msgid_plural "The selected escorts are "
-msgstr[0] "选择的僚机正 "
+msgstr[0] "选择的僚机 "
 
 #: AI.cpp:3854
 msgctxt "IssueOrders"
@@ -233,10 +233,9 @@ msgid "%1%unable to and no longer %2%"
 msgstr ""
 
 #: AI.cpp:3861
-#, fuzzy
 msgctxt "IssueOrders"
 msgid "%1%no longer %2%"
-msgstr "\t%1%トンの%2%\n"
+msgstr "%1%不再%2%"
 
 #: BankPanel.cpp:43
 msgctxt "BankPanel HEADING"
@@ -294,7 +293,7 @@ msgstr "船员薪水"
 
 #: BankPanel.cpp:196 BankPanel.cpp:213
 msgid "(overdue)"
-msgstr "（未支付）"
+msgstr "(拖欠)"
 
 #: BankPanel.cpp:209
 msgctxt "BankPanel"
@@ -336,7 +335,7 @@ msgstr "总计："
 # パネル内の説明文もヘルプとおなじくですます調。
 #: BankPanel.cpp:244
 msgid "Your credit score is %1%."
-msgstr "你的信用点为 %1%。"
+msgstr "你的信用积分为 %1%。"
 
 #: BankPanel.cpp:252
 msgid "You do not qualify for further loans at this time."
@@ -386,49 +385,45 @@ msgstr ""
 # このパネルは折返しなし。短くする。
 #: BoardingPanel.cpp:334
 msgid "You attack. "
-msgstr ""
+msgstr "你攻击。 "
 
 #: BoardingPanel.cpp:336
 msgid "You defend. "
-msgstr ""
+msgstr "你防守。 "
 
 #: BoardingPanel.cpp:370
-#, fuzzy
 msgid "You lose %1% crew; "
 msgid_plural "You lose %1% crew; "
-msgstr[0] "%1% 人失う。"
+msgstr[0] "你失去了 %1% 名船员； "
 
 #: BoardingPanel.cpp:372
-#, fuzzy
 msgctxt "both"
 msgid "They lose %1%."
 msgid_plural "They lose %1%."
-msgstr[0] "%1% 人倒した。"
+msgstr[0] "敌方失去了 %1% 名船员。"
 
 #: BoardingPanel.cpp:376
-#, fuzzy
 msgid "You lose %1% crew."
 msgid_plural "You lose %1% crew."
-msgstr[0] "%1% 人失う。"
+msgstr[0] "你失去了 %1% 名船员。"
 
 #: BoardingPanel.cpp:379
-#, fuzzy
 msgctxt "enemy"
 msgid "They lose %1%."
 msgid_plural "They lose %1%."
-msgstr[0] "%1% 人倒した。"
+msgstr[0] "敌方失去了 %1% 名船员。"
 
 #: BoardingPanel.cpp:385
 msgid "You have been killed. Your ship is lost."
-msgstr ""
+msgstr "你被杀了，失去了你的舰船。"
 
 #: BoardingPanel.cpp:392
 msgid "You have succeeded in capturing this ship."
-msgstr ""
+msgstr "你成功捕获了这首舰船。"
 
 #: Command.cpp:45
 msgid "Show main menu"
-msgstr ""
+msgstr "现实主菜单"
 
 #: Command.cpp:46
 msgid "Forward thrust"
@@ -448,31 +443,31 @@ msgstr ""
 
 #: Command.cpp:50
 msgid "Fire primary weapon"
-msgstr ""
+msgstr "主炮开火"
 
 #: Command.cpp:51
 msgid "Fire secondary weapon"
-msgstr ""
+msgstr "二级武器开火"
 
 #: Command.cpp:52
 msgid "Select secondary weapon"
-msgstr ""
+msgstr "选择二级武器"
 
 #: Command.cpp:53
 msgid "Land on planet / station"
-msgstr ""
+msgstr "降落于行星/空间站"
 
 #: Command.cpp:54
 msgid "Board selected ship"
-msgstr ""
+msgstr "登上选择的舰船"
 
 #: Command.cpp:55
 msgid "Talk to selected ship"
-msgstr ""
+msgstr "与选择的舰船通讯"
 
 #: Command.cpp:56
 msgid "Scan selected ship"
-msgstr ""
+msgstr "扫描选择的舰船"
 
 #: Command.cpp:57
 msgid "Initiate hyperspace jump"
@@ -480,15 +475,15 @@ msgstr ""
 
 #: Command.cpp:58
 msgid "Select next ship"
-msgstr ""
+msgstr "选择下一艘舰船"
 
 #: Command.cpp:59
 msgid "Select nearest hostile ship"
-msgstr ""
+msgstr "选择最近的敌对舰船"
 
 #: Command.cpp:60
 msgid "Deploy / recall fighters"
-msgstr ""
+msgstr "部署/回收战斗机"
 
 #: Command.cpp:61
 msgid "Fire afterburner"
@@ -496,35 +491,35 @@ msgstr ""
 
 #: Command.cpp:62
 msgid "Toggle cloaking device"
-msgstr ""
+msgstr "激活隐形设备"
 
 #: Command.cpp:63
 msgid "View star map"
-msgstr ""
+msgstr "查看星图"
 
 #: Command.cpp:64
 msgid "View player info"
-msgstr ""
+msgstr "查看玩家信息"
 
 #: Command.cpp:65
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "开启全屏"
 
 #: Command.cpp:66
 msgid "Toggle fast-forward"
-msgstr ""
+msgstr "开启快进"
 
 #: Command.cpp:67
 msgid "Fleet: Fight my target"
-msgstr ""
+msgstr "舰队：攻击我的目标"
 
 #: Command.cpp:68
 msgid "Fleet: Gather around me"
-msgstr ""
+msgstr "舰队：聚集在我的周围"
 
 #: Command.cpp:69
 msgid "Fleet: Hold position"
-msgstr ""
+msgstr "舰队：停在原位"
 
 #: Command.cpp:70
 msgid "Fleet: Toggle ammo usage"
@@ -546,11 +541,11 @@ msgstr ""
 
 #: ConversationPanel.cpp:224
 msgid "First name:"
-msgstr ""
+msgstr "名："
 
 #: ConversationPanel.cpp:225
 msgid "Last name:"
-msgstr ""
+msgstr "星："
 
 #: ConversationPanel.cpp:228
 msgid "[ok]"
@@ -562,31 +557,31 @@ msgstr ""
 
 #: Date.cpp:38
 msgid "Sat"
-msgstr ""
+msgstr "星期六"
 
 #: Date.cpp:38
 msgid "Sun"
-msgstr ""
+msgstr "星期日"
 
 #: Date.cpp:38
 msgid "Mon"
-msgstr ""
+msgstr "星期一"
 
 #: Date.cpp:38
 msgid "Tue"
-msgstr ""
+msgstr "星期二"
 
 #: Date.cpp:38
 msgid "Wed"
-msgstr ""
+msgstr "星期三"
 
 #: Date.cpp:38
 msgid "Thu"
-msgstr ""
+msgstr "星期四"
 
 #: Date.cpp:38
 msgid "Fri"
-msgstr ""
+msgstr "星期五"
 
 #: Date.cpp:41 Date.cpp:54 Date.cpp:55 Date.cpp:56
 msgctxt "short month"
@@ -596,62 +591,62 @@ msgstr ""
 #: Date.cpp:42
 msgctxt "short month"
 msgid "Jan"
-msgstr ""
+msgstr "1 月"
 
 #: Date.cpp:43
 msgctxt "short month"
 msgid "Feb"
-msgstr ""
+msgstr "2 月"
 
 #: Date.cpp:44
 msgctxt "short month"
 msgid "Mar"
-msgstr ""
+msgstr "3 月"
 
 #: Date.cpp:45
 msgctxt "short month"
 msgid "Apr"
-msgstr ""
+msgstr "4月"
 
 #: Date.cpp:46
 msgctxt "short month"
 msgid "May"
-msgstr ""
+msgstr "5 月"
 
 #: Date.cpp:47
 msgctxt "short month"
 msgid "Jun"
-msgstr ""
+msgstr "6 月"
 
 #: Date.cpp:48
 msgctxt "short month"
 msgid "Jul"
-msgstr ""
+msgstr "7 月"
 
 #: Date.cpp:49
 msgctxt "short month"
 msgid "Aug"
-msgstr ""
+msgstr "8 月"
 
 #: Date.cpp:50
 msgctxt "short month"
 msgid "Sep"
-msgstr ""
+msgstr "9 月"
 
 #: Date.cpp:51
 msgctxt "short month"
 msgid "Oct"
-msgstr ""
+msgstr "10 月"
 
 #: Date.cpp:52
 msgctxt "short month"
 msgid "Nov"
-msgstr ""
+msgstr "11 月"
 
 #: Date.cpp:53
 msgctxt "short month"
 msgid "Dec"
-msgstr ""
+msgstr "12 月"
 
 #: Date.cpp:60 Date.cpp:73 Date.cpp:74 Date.cpp:75
 msgctxt "full month"
@@ -661,62 +656,62 @@ msgstr ""
 #: Date.cpp:61
 msgctxt "full month"
 msgid "January"
-msgstr ""
+msgstr "一月"
 
 #: Date.cpp:62
 msgctxt "full month"
 msgid "February"
-msgstr ""
+msgstr "二月"
 
 #: Date.cpp:63
 msgctxt "full month"
 msgid "March"
-msgstr ""
+msgstr "三月"
 
 #: Date.cpp:64
 msgctxt "full month"
 msgid "April"
-msgstr ""
+msgstr "四月"
 
 #: Date.cpp:65
 msgctxt "full month"
 msgid "May"
-msgstr ""
+msgstr "五月"
 
 #: Date.cpp:66
 msgctxt "full month"
 msgid "June"
-msgstr ""
+msgstr "六月"
 
 #: Date.cpp:67
 msgctxt "full month"
 msgid "July"
-msgstr ""
+msgstr "七月"
 
 #: Date.cpp:68
 msgctxt "full month"
 msgid "August"
-msgstr ""
+msgstr "八月"
 
 #: Date.cpp:69
 msgctxt "full month"
 msgid "September"
-msgstr ""
+msgstr "九月"
 
 #: Date.cpp:70
 msgctxt "full month"
 msgid "October"
-msgstr ""
+msgstr "十月"
 
 #: Date.cpp:71
 msgctxt "full month"
 msgid "November"
-msgstr ""
+msgstr "十一月"
 
 #: Date.cpp:72
 msgctxt "full month"
 msgid "December"
-msgstr ""
+msgstr "十二月"
 
 #: Date.cpp:79 Date.cpp:93
 msgctxt "Date"
@@ -725,140 +720,140 @@ msgstr ""
 
 #: Date.cpp:80
 msgid "1st"
-msgstr ""
+msgstr "1 日"
 
 #: Date.cpp:80
 msgid "2nd"
-msgstr ""
+msgstr "2 日"
 
 #: Date.cpp:80
 msgid "3rd"
-msgstr ""
+msgstr "3 日"
 
 #: Date.cpp:80
 msgid "4th"
-msgstr ""
+msgstr "4 日"
 
 #: Date.cpp:80
 msgid "5th"
-msgstr ""
+msgstr "5 日"
 
 #: Date.cpp:81
 msgid "6th"
-msgstr ""
+msgstr "6 日"
 
 #: Date.cpp:81
 msgid "7th"
-msgstr ""
+msgstr "7 日"
 
 #: Date.cpp:81
 msgid "8th"
-msgstr ""
+msgstr "8 日"
 
 #: Date.cpp:81
 msgid "9th"
-msgstr ""
+msgstr "9 日"
 
 #: Date.cpp:81
 msgid "10th"
-msgstr ""
+msgstr "10 日"
 
 #: Date.cpp:82
 msgid "11th"
-msgstr ""
+msgstr "11 日"
 
 #: Date.cpp:82
 msgid "12th"
-msgstr ""
+msgstr "12 日"
 
 #: Date.cpp:82
 msgid "13th"
-msgstr ""
+msgstr "13 日"
 
 #: Date.cpp:82
 msgid "14th"
-msgstr ""
+msgstr "14 日"
 
 #: Date.cpp:82
 msgid "15th"
-msgstr ""
+msgstr "15 日"
 
 #: Date.cpp:83
 msgid "16th"
-msgstr ""
+msgstr "16 日"
 
 #: Date.cpp:83
 msgid "17th"
-msgstr ""
+msgstr "17 日"
 
 #: Date.cpp:83
 msgid "18th"
-msgstr ""
+msgstr "18 日"
 
 #: Date.cpp:83
 msgid "19th"
-msgstr ""
+msgstr "19 日"
 
 #: Date.cpp:83
 msgid "20th"
-msgstr ""
+msgstr "20 日"
 
 #: Date.cpp:84
 msgid "21st"
-msgstr ""
+msgstr "21 日"
 
 #: Date.cpp:84
 msgid "22nd"
-msgstr ""
+msgstr "22 日"
 
 #: Date.cpp:84
 msgid "23rd"
-msgstr ""
+msgstr "23 日"
 
 #: Date.cpp:84
 msgid "24th"
-msgstr ""
+msgstr "24 日"
 
 #: Date.cpp:84
 msgid "25th"
-msgstr ""
+msgstr "25 日"
 
 #: Date.cpp:85
 msgid "26th"
-msgstr ""
+msgstr "26 日"
 
 #: Date.cpp:85
 msgid "27th"
-msgstr ""
+msgstr "27 日"
 
 #: Date.cpp:85
 msgid "28th"
-msgstr ""
+msgstr "28 日"
 
 #: Date.cpp:85
 msgid "29th"
-msgstr ""
+msgstr "29 日"
 
 #: Date.cpp:85
 msgid "30th"
-msgstr ""
+msgstr "30 日"
 
 #: Date.cpp:86
 msgid "31st"
-msgstr ""
+msgstr "31 日"
 
 # うしろに文章がつづくとはかぎらないので、2分空きは最後には入れない。
 # ()の前後にSPACEを入れると、Pangoの均等割のときに大きなスペースになる場合があるので、それをさける場合にはFOUR-PER-EM SPACEにする
 #. TRANSLATORS: %1%: day of week, %2%: day, %3%: short month, %4%: year
 #: Date.cpp:90
 msgid "%1%, %2% %3% %4%"
-msgstr ""
+msgstr "%4% 年 %3% %2% 日 %1%"
 
 #. TRANSLATORS: %1%: day,  %2%: full month
 #: Date.cpp:92
 msgctxt "Date"
 msgid "%1% of %2%"
-msgstr ""
+msgstr "%2% %1%"
 
 #: Dialog.cpp:147
 msgid "Decline"
@@ -902,39 +897,39 @@ msgstr ""
 #: Engine.cpp:658
 msgctxt "Engine"
 msgid " credits"
-msgstr ""
+msgstr " 信用点"
 
 #: Engine.cpp:663
 msgid "Landing on:"
-msgstr ""
+msgstr "正降落于："
 
 #: Engine.cpp:664
 msgid "Can land on:"
-msgstr ""
+msgstr "可以降落于："
 
 #: Engine.cpp:665
 msgid "Cannot land on:"
-msgstr ""
+msgstr "无法降落于："
 
 #: Engine.cpp:679
 msgid "Hyperspace:"
-msgstr ""
+msgstr "超空间传送："
 
 #: Engine.cpp:683
 msgid "unexplored system"
-msgstr ""
+msgstr "未探索星系"
 
 #: Engine.cpp:687
 msgid "Navigation:"
-msgstr ""
+msgstr "导航："
 
 #: Engine.cpp:688
 msgid "no destination"
-msgstr ""
+msgstr "没有目的地"
 
 #: Engine.cpp:707
 msgid "no target"
-msgstr ""
+msgstr "没有目标"
 
 #: Engine.cpp:714
 msgid " Asteroid"
@@ -942,7 +937,7 @@ msgstr ""
 
 #: Engine.cpp:733
 msgid "No Government"
-msgstr ""
+msgstr "没有政府"
 
 #: Engine.cpp:737
 msgid "(mission target)"
@@ -967,7 +962,7 @@ msgstr ""
 #: Engine.cpp:1823
 msgctxt "Engine"
 msgid "Landing on %1%."
-msgstr "正在着陆于 %1%。"
+msgstr "正在降落于 %1%。"
 
 #: Engine.cpp:2067
 msgctxt "pick up"
@@ -1000,23 +995,21 @@ msgstr[0] "(%1%トンぶんの船倉がまだ空いている｡)"
 
 #: Engine.cpp:2278
 msgid "Thank you for your assistance, Captain %1%!"
-msgstr ""
+msgstr "感谢您的帮助，%1% 船长！"
 
 #: Engine.cpp:2332
-#, fuzzy
 msgid "Please assist us in destroying this %1% ship."
 msgid_plural "Please assist us in destroying these %1% ships."
-msgstr[0] "%1%の船を攻撃中だ。応援をお願いしたい。"
+msgstr[0] "请协助我们摧毁这艘 %1% 舰船。"
 
 #: Engine.cpp:2338
-#, fuzzy
 msgid "We are under attack by a %1% ship"
 msgid_plural "We are under attack by %1% ships"
-msgstr[0] "%1%に攻撃を受けている"
+msgstr[0] "我们正被 %1% 舰船攻击"
 
 #: Engine.cpp:2341
 msgid ". Please assist us!"
-msgstr ""
+msgstr "。请协助我们！"
 
 #. TRANSLATORS: This translated string T("cost") must be equal to the begin
 #. TRANSLATORS: of the translated string T("cost (%1%%):") in the context
@@ -1030,7 +1023,7 @@ msgstr ""
 #. TRANSLATORS: context "ItemInfoDisplay."
 #: GameData.cpp:975
 msgid "sells for"
-msgstr ""
+msgstr "售出"
 
 #: HailPanel.cpp:52
 msgctxt "HailPanel ship"
@@ -1434,11 +1427,11 @@ msgstr ""
 
 #: MapDetailPanel.cpp:343
 msgid "Government:"
-msgstr ""
+msgstr "政府："
 
 #: MapDetailPanel.cpp:344
 msgid "System:"
-msgstr ""
+msgstr "星系："
 
 #: MapDetailPanel.cpp:371 MapDetailPanel.cpp:372
 msgctxt "LABEL"
@@ -1527,11 +1520,11 @@ msgstr "装备商"
 
 #: MapDetailPanel.cpp:527
 msgid "(has been visited)"
-msgstr ""
+msgstr "(曾经进入)"
 
 #: MapDetailPanel.cpp:527
 msgid "(not yet visited)"
-msgstr ""
+msgstr "(从未进入)"
 
 #: MapDetailPanel.cpp:567
 msgctxt "MapDetailPanel"
@@ -2632,7 +2625,7 @@ msgstr "语言"
 
 #: PreferencesPanel.cpp:63
 msgid "Fullname format"
-msgstr "全名格式"
+msgstr "姓名格式"
 
 #: PreferencesPanel.cpp:164
 msgid "Your screen resolution is too low to support a zoom level above 100%."
@@ -2762,7 +2755,7 @@ msgstr "可点击的雷达视图"
 
 #: PreferencesPanel.cpp:468
 msgid "Hide unexplored map regions"
-msgstr "异常未探索的地图区域"
+msgstr "隐藏未探索的地图区域"
 
 #: PreferencesPanel.cpp:470
 msgid "Interrupt fast-forward"
@@ -3108,7 +3101,7 @@ msgstr ""
 
 #: System.cpp:354
 msgid "You cannot land on a star!"
-msgstr "你无法着陆在该星球！"
+msgstr "你无法降落在该星球！"
 
 #: System.cpp:355
 msgid "This planet is too hot to land on."
