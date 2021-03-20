@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-20 14:20+0800\n"
+"PO-Revision-Date: 2021-03-20 19:27+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -76,11 +76,10 @@ msgid "fines"
 msgstr ""
 
 #: Account.cpp:263
-#, fuzzy
 msgctxt "Expenses"
 msgid "%1% credit in %2%"
 msgid_plural "%1% credits in %2%"
-msgstr[0] "%2%のために %1% クレジットを"
+msgstr[0] ""
 
 #: Account.cpp:268
 msgctxt "Expenses"
@@ -368,28 +367,28 @@ msgstr "这艘舰船你无法捕获。"
 msgid ""
 "The moment you blast through the airlock, a series of explosions rocks the "
 "enemy ship. They appear to have set off their self-destruct sequence..."
-msgstr ""
+msgstr "当你炸开气闸舱时，一连串的爆炸猛烈晃动着敌船。看来他们下达了自毁指令……"
 
 #: BoardingPanel.cpp:307
 msgid "The airlock blasts open. Combat has begun!"
-msgstr ""
+msgstr "炸开气闸舱，战斗开始了！"
 
 #: BoardingPanel.cpp:308
 msgid "(It will end if you both choose to \"defend.\")"
-msgstr ""
+msgstr "(当你和敌方都选择“防守”时会结束)"
 
 #: BoardingPanel.cpp:328
 msgid "You retreat to your ships. Combat ends."
-msgstr ""
+msgstr "你撤退回你的舰船。战斗结束。"
 
 # このパネルは折返しなし。短くする。
 #: BoardingPanel.cpp:334
 msgid "You attack. "
-msgstr "你攻击。 "
+msgstr "你发起攻击。 "
 
 #: BoardingPanel.cpp:336
 msgid "You defend. "
-msgstr "你防守。 "
+msgstr "你进行防守。 "
 
 #: BoardingPanel.cpp:370
 msgid "You lose %1% crew; "
@@ -400,7 +399,7 @@ msgstr[0] "你失去了 %1% 名船员； "
 msgctxt "both"
 msgid "They lose %1%."
 msgid_plural "They lose %1%."
-msgstr[0] "敌方失去了 %1% 名船员。"
+msgstr[0] "敌方失去 %1% 名船员。"
 
 #: BoardingPanel.cpp:376
 msgid "You lose %1% crew."
@@ -423,7 +422,7 @@ msgstr "你成功捕获了这首舰船。"
 
 #: Command.cpp:45
 msgid "Show main menu"
-msgstr "现实主菜单"
+msgstr "显示主菜单"
 
 #: Command.cpp:46
 msgid "Forward thrust"
@@ -471,7 +470,7 @@ msgstr "扫描选择的舰船"
 
 #: Command.cpp:57
 msgid "Initiate hyperspace jump"
-msgstr ""
+msgstr "开始超时空跃迁"
 
 #: Command.cpp:58
 msgid "Select next ship"
@@ -523,17 +522,17 @@ msgstr "舰队：停在原位"
 
 #: Command.cpp:70
 msgid "Fleet: Toggle ammo usage"
-msgstr ""
+msgstr "舰队：使用弹药"
 
 #: Command.cpp:83
 msgctxt "left quote for key names"
 msgid "\""
-msgstr ""
+msgstr "“"
 
 #: Command.cpp:84
 msgctxt "right quote for key names"
 msgid "\""
-msgstr ""
+msgstr "”"
 
 #: ConversationPanel.cpp:181
 msgid "[done]"
@@ -892,7 +891,7 @@ msgstr ""
 
 #: Engine.cpp:625
 msgid "Your ship has overheated."
-msgstr ""
+msgstr "你的舰船过热了。"
 
 #: Engine.cpp:658
 msgctxt "Engine"
@@ -1000,12 +999,12 @@ msgstr "感谢您的帮助，%1% 船长！"
 #: Engine.cpp:2332
 msgid "Please assist us in destroying this %1% ship."
 msgid_plural "Please assist us in destroying these %1% ships."
-msgstr[0] "请协助我们摧毁这艘 %1% 舰船。"
+msgstr[0] "请协助我们摧毁这艘 %1% 的舰船。"
 
 #: Engine.cpp:2338
 msgid "We are under attack by a %1% ship"
 msgid_plural "We are under attack by %1% ships"
-msgstr[0] "我们正被 %1% 舰船攻击"
+msgstr[0] "我们正被 %1% 的舰船攻击"
 
 #: Engine.cpp:2341
 msgid ". Please assist us!"
@@ -1053,7 +1052,7 @@ msgstr ""
 
 #: HailPanel.cpp:105 HailPanel.cpp:262
 msgid "Hang on, we'll be there in a minute."
-msgstr ""
+msgstr "坚持住，我们很快就来。"
 
 #: HailPanel.cpp:108
 msgid ""
@@ -1067,7 +1066,7 @@ msgstr ""
 
 #: HailPanel.cpp:113
 msgid "give you some fuel?"
-msgstr ""
+msgstr "给你一些燃料？"
 
 #: HailPanel.cpp:115
 msgid "patch you up?"
@@ -1080,15 +1079,15 @@ msgstr ""
 
 #: HailPanel.cpp:149
 msgid "You are cleared to land, %1%."
-msgstr ""
+msgstr "降落限制已解除。"
 
 #: HailPanel.cpp:154
 msgid "If you want to land here, it'll cost you %1% credits."
-msgstr ""
+msgstr "在这降落会花费你 %1% 信用点。"
 
 #: HailPanel.cpp:157
 msgid "I'm afraid we can't permit you to land here."
-msgstr ""
+msgstr "恐怕我们不能允许你在这降落。"
 
 #: HailPanel.cpp:243
 msgid "Thank you for granting us our freedom!"
@@ -1096,21 +1095,21 @@ msgstr ""
 
 #: HailPanel.cpp:256
 msgid "Sorry, my ship is too small to have the right equipment to assist you."
-msgstr ""
+msgstr "抱歉，我的飞船太小了，没有合适的设备援助你。"
 
 #: HailPanel.cpp:258
 msgid "Sorry, I'm too busy to help you right now."
-msgstr ""
+msgstr "抱歉，我现在太忙了，无法帮助你。"
 
 #: HailPanel.cpp:265
 msgid ""
 "Sorry, but if we give you fuel we won't have enough to make it to the next "
 "system."
-msgstr ""
+msgstr "抱歉，如果我们给你补充燃料的话，我们就不够燃料去下一个星系了。"
 
 #: HailPanel.cpp:267
 msgid "Sorry, we don't have any fuel."
-msgstr ""
+msgstr "抱歉，我们没有任何燃料。"
 
 #: HailPanel.cpp:272
 msgid "Yeah, right. Don't push your luck."
@@ -1245,51 +1244,51 @@ msgstr ""
 
 #: LogbookPanel.cpp:52
 msgid "  January"
-msgstr ""
+msgstr " 一月"
 
 #: LogbookPanel.cpp:52
 msgid "  February"
-msgstr ""
+msgstr " 二月"
 
 #: LogbookPanel.cpp:52
 msgid "  March"
-msgstr ""
+msgstr " 三月"
 
 #: LogbookPanel.cpp:52
 msgid "  April"
-msgstr ""
+msgstr " 四月"
 
 #: LogbookPanel.cpp:52
 msgid "  May"
-msgstr ""
+msgstr " 五月"
 
 #: LogbookPanel.cpp:52
 msgid "  June"
-msgstr ""
+msgstr " 六月"
 
 #: LogbookPanel.cpp:53
 msgid "  July"
-msgstr ""
+msgstr " 七月"
 
 #: LogbookPanel.cpp:53
 msgid "  August"
-msgstr ""
+msgstr " 八月"
 
 #: LogbookPanel.cpp:53
 msgid "  September"
-msgstr ""
+msgstr " 九月"
 
 #: LogbookPanel.cpp:53
 msgid "  October"
-msgstr ""
+msgstr " 十月"
 
 #: LogbookPanel.cpp:53
 msgid "  November"
-msgstr ""
+msgstr " 十一月"
 
 #: LogbookPanel.cpp:53
 msgid "  December"
-msgstr ""
+msgstr " 十二月"
 
 #. TRANSLATORS: %1%: year.
 #: LogbookPanel.cpp:56
@@ -1684,7 +1683,7 @@ msgstr ""
 
 #: MenuPanel.cpp:119
 msgid "You have died."
-msgstr ""
+msgstr "你死了。"
 
 #: MenuPanel.cpp:124
 msgctxt "MenuPanel"
@@ -1784,7 +1783,7 @@ msgstr[0] "あと %1% 室の船室"
 #: Mission.cpp:860
 msgctxt "Mission"
 msgid " and "
-msgstr ""
+msgstr " 和 "
 
 #: Mission.cpp:862
 #, fuzzy
@@ -2819,7 +2818,7 @@ msgstr "已安装的插件："
 
 #: PreferencesPanel.cpp:638
 msgid "(No description given.)"
-msgstr "（没有描述。）"
+msgstr "(没有描述。)"
 
 #: Ship.cpp:139
 msgid "Transport"
@@ -3092,7 +3091,7 @@ msgstr ""
 
 #: StartConditions.cpp:77
 msgid "(No description provided.)"
-msgstr ""
+msgstr "(没有描述。)"
 
 #: StellarObject.cpp:72
 msgctxt "StellarObject"
@@ -3105,31 +3104,31 @@ msgstr "你无法降落在该星球！"
 
 #: System.cpp:355
 msgid "This planet is too hot to land on."
-msgstr ""
+msgstr "这颗行星太热了，无法降落。"
 
 #: System.cpp:356
 msgid "This planet is too cold to land on."
-msgstr ""
+msgstr "这颗行星太冷了，无法降落。"
 
 #: System.cpp:357
 msgid "This planet is uninhabited."
-msgstr ""
+msgstr "这颗行星无人居住。"
 
 #: System.cpp:358
 msgid "This moon is too hot to land on."
-msgstr ""
+msgstr "这颗卫星太热了，无法降落。"
 
 #: System.cpp:359
 msgid "This moon is too cold to land on."
-msgstr ""
+msgstr "这颗卫星太冷了，无法降落。"
 
 #: System.cpp:360
 msgid "This moon is uninhabited."
-msgstr ""
+msgstr "这颗卫星无人居住。"
 
 #: System.cpp:361
 msgid "This station cannot be docked with."
-msgstr ""
+msgstr "无法对接这个空间站。"
 
 #: TradingPanel.cpp:40
 msgid "(very low)"
@@ -3157,11 +3156,10 @@ msgid "You sold %1% %2% of cargo at a loss of %3% credits."
 msgstr ""
 
 #: TradingPanel.cpp:77 TradingPanel.cpp:80
-#, fuzzy
 msgctxt "TradingPanel sold"
 msgid "ton"
 msgid_plural "tons"
-msgstr[0] "トン"
+msgstr[0] "吨"
 
 #: TradingPanel.cpp:79
 msgid "You sold %1% %2% of cargo for a total profit of %3% credits."

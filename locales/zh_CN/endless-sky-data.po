@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-22 20:57+0900\n"
-"PO-Revision-Date: 2021-03-20 12:57+0800\n"
+"PO-Revision-Date: 2021-03-20 19:27+0800\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6975,7 +6975,7 @@ msgstr ""
 #: commodities.txt:290
 msgctxt "commodity"
 msgid "Medical"
-msgstr "医学用品"
+msgstr "医疗用品"
 
 #. [commodity] Medical in [trade]
 #: commodities.txt:291
@@ -51750,13 +51750,13 @@ msgstr ""
 #: interfaces.txt:781
 msgctxt "interface"
 msgid "Buy All"
-msgstr "卖出所有"
+msgstr "购买所有"
 
 #. [button] in [interface]: "trade"
 #: interfaces.txt:790
 msgctxt "interface"
 msgid "Sell All"
-msgstr "购买所有"
+msgstr "卖出所有"
 
 #. [button] in [interface]: "trade"
 #: interfaces.txt:796
