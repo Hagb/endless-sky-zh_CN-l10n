@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-21 01:35+0800\n"
+"PO-Revision-Date: 2021-03-21 03:02+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -856,19 +856,19 @@ msgstr "%2% %1%"
 
 #: Dialog.cpp:147
 msgid "Decline"
-msgstr ""
+msgstr "拒绝"
 
 #: Dialog.cpp:147
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: Dialog.cpp:155
 msgid "Accept"
-msgstr ""
+msgstr "接受"
 
 #: Dialog.cpp:155
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: Dialog.cpp:182 Dialog.cpp:189 MissionAction.cpp:271 NPC.cpp:269
 #: PlayerInfo.cpp:123 PlayerInfo.cpp:1518 PlayerInfo.cpp:2975
@@ -932,7 +932,7 @@ msgstr "没有目标"
 
 #: Engine.cpp:714
 msgid " Asteroid"
-msgstr ""
+msgstr " 小行星"
 
 #: Engine.cpp:733
 msgid "No Government"
@@ -1014,6 +1014,7 @@ msgstr "。请协助我们！"
 #. TRANSLATORS: of the translated string T("cost (%1%%):") in the context
 #. TRANSLATORS: "ItemInfoDisplay."
 #: GameData.cpp:969
+#, fuzzy
 msgid "cost"
 msgstr "花费"
 
@@ -1519,11 +1520,11 @@ msgstr "装备商"
 
 #: MapDetailPanel.cpp:527
 msgid "(has been visited)"
-msgstr "(曾经进入)"
+msgstr "(曾经到访)"
 
 #: MapDetailPanel.cpp:527
 msgid "(not yet visited)"
-msgstr "(从未进入)"
+msgstr "(从未到访)"
 
 #: MapDetailPanel.cpp:567
 msgctxt "MapDetailPanel"
@@ -1548,7 +1549,7 @@ msgstr ""
 
 #: MapOutfitterPanel.cpp:39
 msgid "Mine this here"
-msgstr ""
+msgstr "此处可开采"
 
 #: MapOutfitterPanel.cpp:40
 msgid "Has no outfitter"
@@ -1569,7 +1570,7 @@ msgstr " 信用点"
 
 #: MapOutfitterPanel.cpp:206
 msgid "(Mined from asteroids)"
-msgstr ""
+msgstr "(从小行星开采)"
 
 #: MapOutfitterPanel.cpp:210
 msgctxt "kind of outfit"
@@ -1587,10 +1588,9 @@ msgid "engine"
 msgstr "引擎"
 
 #: MapOutfitterPanel.cpp:215
-#, fuzzy
 msgid "%1% ton of %2% space"
 msgid_plural "%1% tons of %2% space"
-msgstr[0] "%1%トンぶんの%2%区画"
+msgstr[0] "%1% 吨的 %2% 空间"
 
 #: MapPanel.cpp:205
 msgid "You have no available route to this system."
@@ -1620,22 +1620,22 @@ msgid ""
 "You are here, with:\n"
 "%1%"
 msgstr ""
+"你在此处，带有：\n"
+"%1%"
 
 #: MapPanel.cpp:1186
 msgid "You are here."
 msgstr "你在此处。"
 
 #: MapPanel.cpp:1192
-#, fuzzy
 msgid "%1% active escort\n"
 msgid_plural "%1% active escorts\n"
-msgstr[0] "%1% 隻の行動中の僚船船\n"
+msgstr[0] "%1% 艘行动中的僚机\n"
 
 #: MapPanel.cpp:1195
-#, fuzzy
 msgid "%1% escort"
 msgid_plural "%1% escorts"
-msgstr[0] "%1% 隻の僚船\n"
+msgstr[0] "%1% 艘僚机"
 
 #: MapPanel.cpp:1198
 msgid "%1% parked escort"
@@ -1648,37 +1648,36 @@ msgid "\n"
 msgstr ""
 
 #: MapPanel.cpp:1204
-#, fuzzy
 msgid "%1% stored outfit"
 msgid_plural "%1% stored outfits"
-msgstr[0] "%1% クレジット"
+msgstr[0] "%1% 件仓储的装备"
 
 #: MapSalesPanel.cpp:119
 msgctxt "MapSalesPanel"
 msgid "Search for:"
-msgstr ""
+msgstr "搜索："
 
 #: MapShipyardPanel.cpp:38
 msgid "Has no shipyard"
-msgstr ""
+msgstr "没有造船厂"
 
 #: MapShipyardPanel.cpp:38
 msgid "Has shipyard"
-msgstr ""
+msgstr "有造船厂"
 
 #: MapShipyardPanel.cpp:38
 msgid "Sells this ship"
-msgstr ""
+msgstr "售出这艘船"
 
 #: MapShipyardPanel.cpp:189
 msgctxt "MapShipyardPanel"
 msgid " credits"
-msgstr ""
+msgstr " 信用点"
 
 # トランケイトされるときはうしろから
 #: MapShipyardPanel.cpp:191
 msgid "%1% shields / %2% hull"
-msgstr ""
+msgstr "%1% 防护罩 / %2% 船体"
 
 #: MenuPanel.cpp:119
 msgid "You have died."
@@ -1844,7 +1843,7 @@ msgstr ""
 
 #: MissionPanel.cpp:229
 msgid "Missions available here:"
-msgstr ""
+msgstr "这里的任务："
 
 #: MissionPanel.cpp:235
 msgid "Your current missions:"
@@ -1856,23 +1855,23 @@ msgstr "中止任务 “%1%”？"
 
 #: MissionPanel.cpp:528
 msgid "Available job; can accept"
-msgstr ""
+msgstr "可接受"
 
 #: MissionPanel.cpp:529
 msgid "Too little space to accept"
-msgstr ""
+msgstr "不够空间接受"
 
 #: MissionPanel.cpp:530
 msgid "Active job; go here to complete"
-msgstr ""
+msgstr "进行中的任务；到图示位置完成"
 
 #: MissionPanel.cpp:531
 msgid "Has unfinished requirements"
-msgstr ""
+msgstr "有未达成的要求"
 
 #: MissionPanel.cpp:532
 msgid "Waypoint you must visit"
-msgstr ""
+msgstr "你必须到达的位点"
 
 #: MissionPanel.cpp:558
 msgid "Selected system: unexplored system"
@@ -1957,7 +1956,7 @@ msgstr "引擎"
 
 #: Outfit.cpp:114
 msgid "Hand to Hand"
-msgstr ""
+msgstr "搏斗用具"
 
 #: Outfit.cpp:115
 msgid "Special"
@@ -1965,11 +1964,11 @@ msgstr "特殊物品"
 
 #: OutfitInfoDisplay.cpp:125
 msgid "This outfit cannot be plundered."
-msgstr ""
+msgstr "这件装备无法被抢夺。"
 
 #: OutfitInfoDisplay.cpp:126
 msgid "This is not an installable item."
-msgstr ""
+msgstr "这不是一件可安装的物品。"
 
 #: OutfitInfoDisplay.cpp:127
 msgid "Allows you to make hyperjumps."
@@ -1985,7 +1984,7 @@ msgstr ""
 
 #: OutfitInfoDisplay.cpp:194
 msgid "sells for (%1%%):"
-msgstr ""
+msgstr "出售给商店（%1%%）："
 
 #: OutfitInfoDisplay.cpp:375
 msgid "continuous"
@@ -2023,7 +2022,7 @@ msgstr[0] " 吨"
 
 #: OutfitterPanel.cpp:170
 msgid "installed: %1%"
-msgstr ""
+msgstr "已安装：%1%"
 
 #: OutfitterPanel.cpp:172
 msgid " - %1%"
@@ -2031,78 +2030,82 @@ msgstr ""
 
 #: OutfitterPanel.cpp:188
 msgid "cargo+stored: %1%, in stock: %2%"
-msgstr ""
+msgstr "货仓+本地仓库中：%1%，商店存货中：%2%"
 
 #: OutfitterPanel.cpp:190
 msgid "in cargo: %1%, in storage: %2%"
-msgstr ""
+msgstr "货仓中：%1%，本地仓库中：%2%"
 
 #: OutfitterPanel.cpp:192
 msgid "in cargo: %1%, in stock: %2%"
-msgstr ""
+msgstr "货仓中：%1%，商店存货中：%2%"
 
 #: OutfitterPanel.cpp:194
 msgid "in storage: %1%, in stock: %2%"
-msgstr ""
+msgstr "本地仓库中：%1%，商店存货中：%2%"
 
 #: OutfitterPanel.cpp:196
 msgid "in cargo: %1%"
-msgstr ""
+msgstr "货仓中：%1%"
 
 #: OutfitterPanel.cpp:198
 msgid "in storage: %1%"
-msgstr ""
+msgstr "本地仓库中：%1%"
 
 #: OutfitterPanel.cpp:200
 msgid "in stock: %1%"
-msgstr ""
+msgstr "商店存货中：%1%"
 
 #: OutfitterPanel.cpp:202
 msgid "(not sold here)"
-msgstr ""
+msgstr "(此处不售卖)"
 
 #: OutfitterPanel.cpp:230
 msgid "Nothing Selected"
-msgstr ""
+msgstr "没有选择任何东西"
 
 #: OutfitterPanel.cpp:265 ShipyardPanel.cpp:199
 msgid "description"
-msgstr ""
+msgstr "描述"
 
 #: OutfitterPanel.cpp:458
 msgid ""
 "You cannot buy this outfit, because it costs %1% credits, and you only have "
 "%2%."
-msgstr ""
+msgstr "你无法购买这件装备，因为它售价为 %1% 信用点，而你仅有 %2%。"
 
 #: OutfitterPanel.cpp:467
 msgid ""
 "You cannot buy this outfit, because it requires a license that you don't "
 "have."
-msgstr ""
+msgstr "你无法购买这件装备，因为它要求一种许可，而你没有"
 
 #: OutfitterPanel.cpp:473
 msgid ""
 "You don't have enough money to buy this outfit, because it will cost you an "
 "extra %1% credits to buy the necessary licenses."
 msgstr ""
+"你没有足够的钱来购买这件装备，因为它将花费你额外的 %1% 信用点来购买必要的许"
+"可。"
 
 #: OutfitterPanel.cpp:480
 msgid ""
 "You cannot buy this outfit here. It is being shown in the list because you "
 "have one installed in your ship, but this %1% does not sell them."
 msgstr ""
+"你不能在这里购买这件装备。它在列表中显示是因为你已经在你的舰船中安装了一件"
+"了，但这颗 %1% 并不出售。"
 
 #: OutfitterPanel.cpp:488
 msgid ""
 "You have already mapped all the systems shown by this map, so there is no "
 "reason to buy another."
-msgstr ""
+msgstr "你已经标记了这张地图上的所有星系，没理由再买一张了。"
 
 #: OutfitterPanel.cpp:495
 msgid ""
 "You already have one of these licenses, so there is no reason to buy another."
-msgstr ""
+msgstr "你已经有了一份这种许可，因此没理由再买一份了。"
 
 # 「ト」は左側が空いているので数字とのあいだの空白をあけない
 #: OutfitterPanel.cpp:507
@@ -2110,6 +2113,7 @@ msgid ""
 "You cannot install this outfit, because it takes up %1% of outfit space, and "
 "this ship has %2% free."
 msgstr ""
+"你不能安装这件装备，因为它需要 %1% 的装备空间，而这艘舰船仅有 %2% 空闲。"
 
 #: OutfitterPanel.cpp:517
 msgid ""
@@ -2152,7 +2156,7 @@ msgstr ""
 
 #: OutfitterPanel.cpp:564
 msgid "This item is not an outfit that can be installed in a ship."
-msgstr ""
+msgstr "这件物品不能作为装备安装到舰船上。"
 
 #: OutfitterPanel.cpp:570
 msgid ""
@@ -2160,32 +2164,34 @@ msgid ""
 "your ship's attributes to a negative amount. For example, it may use up more "
 "cargo space than you have left."
 msgstr ""
+"你无法安装这件装备到你的舰船上，因为它会把这艘船的属性减小到负值。比如，可能"
+"它使用的货仓空间超过了你剩余的。"
 
 #: OutfitterPanel.cpp:702
 msgid ""
 "You cannot uninstall maps. Once you obtain one, it is yours permanently."
-msgstr ""
+msgstr "你不能卸下地图。一旦获得，它就是永久性的了。"
 
 #: OutfitterPanel.cpp:704
 msgid "You cannot sell maps. Once you obtain one, it is yours permanently."
-msgstr ""
+msgstr "你不能出售地图。一旦获得，它就是永久性的了。"
 
 #: OutfitterPanel.cpp:711
 msgid ""
 "You cannot uninstall licenses. Once you obtain one, it is yours permanently."
-msgstr ""
+msgstr "你不能卸下许可。一旦获得，它就是永久性的了。"
 
 #: OutfitterPanel.cpp:713
 msgid "You cannot sell licenses. Once you obtain one, it is yours permanently."
-msgstr ""
+msgstr "你不能出售许可。一旦获得，它就是永久性的了。"
 
 #: OutfitterPanel.cpp:730
 msgid "You do not have any of these outfits to uninstall."
-msgstr ""
+msgstr "你没有任何的这种装备来卸下。"
 
 #: OutfitterPanel.cpp:732
 msgid "You do not have any of these outfits to sell."
-msgstr ""
+msgstr "你没有任何的这种装备来售出。"
 
 #: OutfitterPanel.cpp:747
 msgid ""
@@ -2448,24 +2454,24 @@ msgstr ""
 
 #: PlayerInfoPanel.cpp:499
 msgid "player:"
-msgstr ""
+msgstr "玩家："
 
 #: PlayerInfoPanel.cpp:500
 msgid "net worth:"
-msgstr ""
+msgstr "净资产："
 
 #: PlayerInfoPanel.cpp:501
 msgctxt "PlayerInfoPanel"
 msgid " credits"
-msgstr ""
+msgstr " 信用值"
 
 #: PlayerInfoPanel.cpp:511
 msgid "combat rating:"
-msgstr ""
+msgstr "战斗等级："
 
 #: PlayerInfoPanel.cpp:532
 msgid "piracy threat:"
-msgstr ""
+msgstr "海盗威胁："
 
 #: PlayerInfoPanel.cpp:538
 msgid "cargo: "
@@ -2490,37 +2496,37 @@ msgstr "许可："
 #: PlayerInfoPanel.cpp:591
 msgctxt "PlayerInfoPanel HEADER"
 msgid "ship"
-msgstr ""
+msgstr "舰船"
 
 #: PlayerInfoPanel.cpp:592
 msgctxt "PlayerInfoPanel HEADER"
 msgid "model"
-msgstr ""
+msgstr "型号"
 
 #: PlayerInfoPanel.cpp:593
 msgctxt "PlayerInfoPanel HEADER"
 msgid "system"
-msgstr ""
+msgstr "星系"
 
 #: PlayerInfoPanel.cpp:594
 msgctxt "PlayerInfoPanel HEADER"
 msgid "shields"
-msgstr ""
+msgstr "防护罩"
 
 #: PlayerInfoPanel.cpp:595
 msgctxt "PlayerInfoPanel HEADER"
 msgid "hull"
-msgstr ""
+msgstr "船体"
 
 #: PlayerInfoPanel.cpp:596
 msgctxt "PlayerInfoPanel HEADER"
 msgid "fuel"
-msgstr ""
+msgstr "燃料"
 
 #: PlayerInfoPanel.cpp:597
 msgctxt "PlayerInfoPanel HEADER"
 msgid "crew"
-msgstr ""
+msgstr "船员"
 
 #: PlayerInfoPanel.cpp:645
 msgid "Parked"
@@ -2594,7 +2600,7 @@ msgstr ""
 
 #: PreferencesPanel.cpp:54
 msgid "Escorts expend ammo"
-msgstr ""
+msgstr "僚机自行购买弹药"
 
 #: PreferencesPanel.cpp:55
 msgid "Turret tracking"
@@ -2708,7 +2714,7 @@ msgstr "AI"
 
 #: PreferencesPanel.cpp:451
 msgid "Automatic aiming"
-msgstr ""
+msgstr "自动瞄准"
 
 #: PreferencesPanel.cpp:452
 msgid "Automatic firing"
@@ -2904,7 +2910,7 @@ msgstr "能量"
 
 #: ShipInfoDisplay.cpp:88
 msgid "heat"
-msgstr "温度"
+msgstr "热量"
 
 #: ShipInfoDisplay.cpp:373
 msgid "This ship will sell for:"
@@ -2922,31 +2928,31 @@ msgstr ""
 
 #: ShipInfoPanel.cpp:176 ShipInfoPanel.cpp:182
 msgid "How many tons of %1% do you want to jettison?"
-msgstr ""
+msgstr "你要抛弃多少吨的 %1%？"
 
 #: ShipInfoPanel.cpp:188
 msgid "Are you sure you want to jettison a %1%?"
-msgstr ""
+msgstr "你确定要抛弃一件 %1%？"
 
 #: ShipInfoPanel.cpp:193
 msgid "How many %1% do you want to jettison?"
-msgstr ""
+msgstr "你要抛弃多少 %1%？"
 
 #: ShipInfoPanel.cpp:199
 msgid "Are you sure you want to jettison all of this ship's regular cargo?"
-msgstr ""
+msgstr "你确定抛弃这艘船的所有常规货物？"
 
 #: ShipInfoPanel.cpp:204
 msgid "Are you sure you want to jettison all of this ship's cargo?"
-msgstr ""
+msgstr "你确定抛弃这艘船的所有货物？"
 
 #: ShipInfoPanel.cpp:317
 msgid "ship:"
-msgstr ""
+msgstr "舰船："
 
 #: ShipInfoPanel.cpp:318
 msgid "model:"
-msgstr ""
+msgstr "型号："
 
 #: ShipInfoPanel.cpp:460 ShipInfoPanel.cpp:504
 msgid "[empty]"
@@ -2954,11 +2960,11 @@ msgstr ""
 
 #: ShipInfoPanel.cpp:532
 msgid "Cargo"
-msgstr ""
+msgstr "货物"
 
 #: ShipInfoPanel.cpp:606
 msgid "passengers:"
-msgstr ""
+msgstr "乘客："
 
 #: ShipInfoPanel.cpp:715 ShipInfoPanel.cpp:731 ShipInfoPanel.cpp:750
 msgid "You jettisoned %1% credits worth of cargo."
@@ -3043,40 +3049,40 @@ msgstr ""
 
 #: ShopPanel.cpp:190
 msgid "Your Ships:"
-msgstr ""
+msgstr "你的舰船："
 
 #: ShopPanel.cpp:281
 msgid "cargo space:"
-msgstr ""
+msgstr "货仓空间："
 
 #: ShopPanel.cpp:344
 msgid "You have:"
-msgstr ""
+msgstr "你有："
 
 #: ShopPanel.cpp:346
 msgctxt "ShopPanel"
 msgid " credits"
-msgstr ""
+msgstr " 信用点"
 
 #: ShopPanel.cpp:356
 msgid "_Install"
-msgstr ""
+msgstr "安装 (_I)"
 
 #: ShopPanel.cpp:356
 msgid "_Cargo"
-msgstr ""
+msgstr "货仓 (_C)"
 
 #: ShopPanel.cpp:356
 msgid "_Buy"
-msgstr ""
+msgstr "购买 (_B)"
 
 #: ShopPanel.cpp:363
 msgid "_Sell"
-msgstr ""
+msgstr "售出 (_S)"
 
 #: ShopPanel.cpp:370
 msgid "_Leave"
-msgstr ""
+msgstr "离开 (_L)"
 
 #: SpaceportPanel.cpp:74
 msgid "%1%:"
