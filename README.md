@@ -1,8 +1,8 @@
 # Endless Sky zh\_CN L10N (unofficial) (WIP) - Endless Sky 中文本地化（非官方）（进行中）
 
-Unofficial Simplified Chinese translations (localization) of the game [Endless Sky](https://github.com/endless-sky/endless-sky).
+Unofficial simplified Chinese translations (localization) of the game [Endless Sky](https://github.com/endless-sky/endless-sky).
 
-It is based on the [Endless Sky fork with unicode and i18n support](https://github.com/oo13/endless-sky/tree/build_test_i18n_v3) and [lang-ja plugin](https://github.com/endless-sky/endless-sky/issues/558#issuecomment-582915541) of [@oo13](https://github.com/oo13), and in the hope of being submitted to [the official repository of Endless Sky](https://github.com/endless-sky/endless-sky) after [the fork](https://github.com/oo13/endless-sky/tree/build_test_i18n_v3) is merged .
+It is based on the [Endless Sky fork with unicode and i18n support](https://github.com/oo13/endless-sky/tree/build_test_i18n_v3) and [lang-ja plugin](https://github.com/endless-sky/endless-sky/issues/558#issuecomment-582915541) of [@oo13](https://github.com/oo13), and in the hope of being submitted to [the official repository of Endless Sky](https://github.com/endless-sky/endless-sky) after [the fork](https://github.com/oo13/endless-sky/tree/build_test_i18n_v3) is merged.
 
 > 游戏 [Endless Sky](https://github.com/endless-sky/endless-sky) 非官方简体中文翻译（本地化）。
 >
