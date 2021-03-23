@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-21 03:02+0800\n"
+"PO-Revision-Date: 2021-03-23 17:15+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -544,7 +544,7 @@ msgstr "名："
 
 #: ConversationPanel.cpp:225
 msgid "Last name:"
-msgstr "星："
+msgstr "姓："
 
 #: ConversationPanel.cpp:228
 msgid "[ok]"
@@ -2078,7 +2078,7 @@ msgstr "你无法购买这件装备，因为它售价为 %1% 信用点，而你�
 msgid ""
 "You cannot buy this outfit, because it requires a license that you don't "
 "have."
-msgstr "你无法购买这件装备，因为它要求一种许可，而你没有"
+msgstr "你无法购买这件装备，因为你没有它所要求的许可。"
 
 #: OutfitterPanel.cpp:473
 msgid ""
@@ -2463,7 +2463,7 @@ msgstr "净资产："
 #: PlayerInfoPanel.cpp:501
 msgctxt "PlayerInfoPanel"
 msgid " credits"
-msgstr " 信用值"
+msgstr " 信用点"
 
 #: PlayerInfoPanel.cpp:511
 msgid "combat rating:"
