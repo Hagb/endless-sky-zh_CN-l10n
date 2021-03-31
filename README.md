@@ -20,5 +20,4 @@ Download and put it into `plugins` folder of the game (compiled from [folk of oo
 
 ## How to contribute? - 如何贡献？
 
-TODO.
-
+[Pull requests](https://github.com/Hagb/endless-sky-zh_CN-l10n/pulls), [issues](https://github.com/Hagb/endless-sky-zh_CN-l10n/issues) or any other ways are welcomed.
