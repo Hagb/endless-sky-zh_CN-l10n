@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-27 14:06+0800\n"
+"PO-Revision-Date: 2021-03-30 17:21+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -145,7 +145,7 @@ msgstr "聚集在你的飞船周围。"
 
 #: AI.cpp:685
 msgid "%1% %2% \"%3%\": Please, just take my cargo and leave me alone."
-msgstr ""
+msgstr "%1% %2% \"%3%\": 求求你们只拿走我的货物，放我走。"
 
 #: AI.cpp:3200
 msgid "Note: you have "
@@ -191,7 +191,7 @@ msgstr "选择的星球"
 
 #: AI.cpp:3458
 msgid "Engaging autopilot to jump to the %1% system."
-msgstr ""
+msgstr "自动驾驶跃迁至 %1% 星系。"
 
 #: AI.cpp:3539
 msgid "Autopilot: landing on %1%."
@@ -1485,7 +1485,7 @@ msgstr "受限"
 
 #: MapDetailPanel.cpp:433 MapDetailPanel.cpp:502
 msgid "Dominated"
-msgstr "支配"
+msgstr "被征服"
 
 #: MapDetailPanel.cpp:438
 msgid "Uninhabited"
@@ -1899,22 +1899,25 @@ msgid ""
 "You must fire %1% of your flagship's non-essential crew members and sell %2% "
 "tons of ordinary commodities to make room for this mission. Continue?"
 msgstr ""
+"你必须售出 %1% 吨的常规商品，并解雇旗舰上的 %1% 名非必要船员，以便为这个任务"
+"腾出足够的空间。继续？"
 
 #: MissionPanel.cpp:751
 msgid ""
 "You must fire %1% of your flagship's non-essential crew members to make room "
 "for this mission. Continue?"
 msgstr ""
+"你必须解雇旗舰上的 %1% 名非必要船员，以便为这个任务腾出足够的客仓。继续？"
 
 #: MissionPanel.cpp:754
 msgid ""
 "You must sell %1% tons of ordinary commodities to make room for this "
 "mission. Continue?"
-msgstr ""
+msgstr "你必须售出 %1% 吨的常规商品，以便为这个任务腾出足够的货仓。继续？"
 
 #: Mortgage.cpp:45
 msgid "Fine"
-msgstr ""
+msgstr "罚金"
 
 #: Mortgage.cpp:45 Mortgage.cpp:69
 msgid "Mortgage"
@@ -3190,27 +3193,27 @@ msgstr "空闲："
 
 #: TradingPanel.cpp:139
 msgid "%1% %2% of mission cargo and other items."
-msgstr ""
+msgstr "%1% %2%的任务货物和其它物品。"
 
 #: TradingPanel.cpp:141
 msgid "%1% %2% of outfits and mission cargo."
-msgstr ""
+msgstr "%1% %2%的装备和任务货物。"
 
 #: TradingPanel.cpp:143
 msgid "%1% %2% of outfits and harvested materials."
-msgstr ""
+msgstr "%1% %2%的装备和收获的原料。"
 
 #: TradingPanel.cpp:145
 msgid "%1% %2% of outfits."
-msgstr ""
+msgstr "%1% %2%的装备。"
 
 #: TradingPanel.cpp:147
 msgid "%1% %2% of harvested materials."
-msgstr ""
+msgstr "%1% %2%收获的原料。"
 
 #: TradingPanel.cpp:149
 msgid "%1% %2% of mission cargo."
-msgstr ""
+msgstr "%1% %2%的任务货物。"
 
 #: TradingPanel.cpp:151
 msgctxt "TradingPanel hold"
