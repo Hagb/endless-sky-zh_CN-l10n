@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-03-30 17:21+0800\n"
+"PO-Revision-Date: 2021-04-01 21:29+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -2031,31 +2031,31 @@ msgstr ""
 
 #: OutfitterPanel.cpp:188
 msgid "cargo+stored: %1%, in stock: %2%"
-msgstr "货仓+本地仓库中：%1%，商店存货中：%2%"
+msgstr "货仓+本地仓库：%1%，商店存货：%2%"
 
 #: OutfitterPanel.cpp:190
 msgid "in cargo: %1%, in storage: %2%"
-msgstr "货仓中：%1%，本地仓库中：%2%"
+msgstr "货仓：%1%，本地仓库：%2%"
 
 #: OutfitterPanel.cpp:192
 msgid "in cargo: %1%, in stock: %2%"
-msgstr "货仓中：%1%，商店存货中：%2%"
+msgstr "货仓：%1%，商店存货：%2%"
 
 #: OutfitterPanel.cpp:194
 msgid "in storage: %1%, in stock: %2%"
-msgstr "本地仓库中：%1%，商店存货中：%2%"
+msgstr "本地仓库：%1%，商店存货：%2%"
 
 #: OutfitterPanel.cpp:196
 msgid "in cargo: %1%"
-msgstr "货仓中：%1%"
+msgstr "货仓：%1%"
 
 #: OutfitterPanel.cpp:198
 msgid "in storage: %1%"
-msgstr "本地仓库中：%1%"
+msgstr "本地仓库：%1%"
 
 #: OutfitterPanel.cpp:200
 msgid "in stock: %1%"
-msgstr "商店存货中：%1%"
+msgstr "商店存货：%1%"
 
 #: OutfitterPanel.cpp:202
 msgid "(not sold here)"
