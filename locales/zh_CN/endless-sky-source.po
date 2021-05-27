@@ -26,7 +26,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-04-01 21:29+0800\n"
+"PO-Revision-Date: 2021-04-03 18:05+0800\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: zh_CN\n"
@@ -2732,7 +2732,7 @@ msgstr "性能"
 
 #: PreferencesPanel.cpp:458
 msgid "Show CPU / GPU load"
-msgstr "现实 CPU / GPU 负载"
+msgstr "显示 CPU / GPU 负载"
 
 #: PreferencesPanel.cpp:459
 msgid "Render motion blur"
