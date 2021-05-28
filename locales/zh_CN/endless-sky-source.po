@@ -20,22 +20,24 @@
 # You should have received a copy of the GNU General Public License
 # along with this file.  If not, see <http://www.gnu.org/licenses/>.
 #
+# 不萌 <2369507505@qq.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: endless-sky-source "
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-04-03 18:05+0800\n"
-"Last-Translator: \n"
-"Language-Team: None\n"
+"PO-Revision-Date: 2021-05-28 15:37+0000\n"
+"Last-Translator: 不萌 <2369507505@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
+"endless-sky/endless-sky-source/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.6.2\n"
 "X-Revision: 3\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #: Account.cpp:36
 msgctxt "Expenses"
@@ -48,7 +50,7 @@ msgstr "你无法为你所有的船员支付薪水。"
 
 #: Account.cpp:210
 msgid "You missed a mortgage payment."
-msgstr ""
+msgstr "你错过了一次分期贷款的支付。"
 
 #: Account.cpp:248
 msgctxt "missedPayment"
@@ -63,17 +65,17 @@ msgstr "船员薪水"
 #: Account.cpp:254
 msgctxt "Expenses"
 msgid "maintenance"
-msgstr ""
+msgstr "维护"
 
 #: Account.cpp:256
 msgctxt "Expenses"
 msgid "mortgages"
-msgstr ""
+msgstr "银行贷款"
 
 #: Account.cpp:258
 msgctxt "Expenses"
 msgid "fines"
-msgstr ""
+msgstr "罚金"
 
 #: Account.cpp:263
 msgctxt "Expenses"
@@ -88,11 +90,11 @@ msgstr "你支付了 %1%。"
 
 #: AI.cpp:166
 msgid "Deployed %1% carried ships."
-msgstr ""
+msgstr "已部署%1%架舰载机。"
 
 #: AI.cpp:173
 msgid "Recalled %1% carried ships."
-msgstr ""
+msgstr "已返航%1%架舰载机。"
 
 #: AI.cpp:307
 msgctxt "AI"
@@ -124,8 +126,9 @@ msgid "Disengaging autopilot."
 msgstr "解除自动驾驶。"
 
 #: AI.cpp:380
+#, fuzzy
 msgid "Coming to a stop."
-msgstr ""
+msgstr "进站。"
 
 #: AI.cpp:388
 msgid "Engaging cloaking device."
@@ -145,7 +148,7 @@ msgstr "聚集在你的飞船周围。"
 
 #: AI.cpp:685
 msgid "%1% %2% \"%3%\": Please, just take my cargo and leave me alone."
-msgstr "%1% %2% \"%3%\": 求求你们只拿走我的货物，放我走。"
+msgstr "%1% %2% \"%3%\": 求求你们拿走我的货物，放我走吧。"
 
 #: AI.cpp:3200
 msgid "Note: you have "
@@ -162,7 +165,7 @@ msgstr ""
 
 #: AI.cpp:3363 AI.cpp:3407
 msgid "The authorities on this %1% refuse to clear you to land here."
-msgstr ""
+msgstr "%1%的当局拒绝批准你的降落请求。"
 
 #: AI.cpp:3368
 msgid "Switching landing targets. Now landing on %1%."
@@ -183,7 +186,7 @@ msgstr "正在降落于 %1%。"
 
 #: AI.cpp:3449
 msgid "Landing on a local wormhole to navigate to the %1% system."
-msgstr ""
+msgstr "降落至前往%1%星系的本星系虫洞周围。"
 
 #: AI.cpp:3454
 msgid "selected star"
@@ -297,7 +300,7 @@ msgstr "(拖欠)"
 #: BankPanel.cpp:209
 msgctxt "BankPanel"
 msgid "Maintenance"
-msgstr ""
+msgstr "维护"
 
 #: BankPanel.cpp:226
 #, fuzzy
@@ -338,7 +341,7 @@ msgstr "你的信用积分为 %1%。"
 
 #: BankPanel.cpp:252
 msgid "You do not qualify for further loans at this time."
-msgstr "现在你没有资格申请新贷款。"
+msgstr "现在你没有资格申请新的贷款。"
 
 #: BankPanel.cpp:254
 msgid "You qualify for a new loan of up to %1% credits."
@@ -353,7 +356,7 @@ msgstr "[申请]"
 msgid ""
 "Paying off part of this debt will reduce your daily payments and the "
 "interest that it costs you. How many extra credits will you pay?"
-msgstr "偿还一部分的债务会减少你每日的利息。你要偿还多少债务？"
+msgstr "偿还一部分的债务会减少你每日的还款数额和利息。你要提前偿还多少信用点？"
 
 #: BankPanel.cpp:296
 msgid "Borrow how many credits?"
@@ -375,7 +378,7 @@ msgstr "炸开气闸舱，战斗开始了！"
 
 #: BoardingPanel.cpp:308
 msgid "(It will end if you both choose to \"defend.\")"
-msgstr "(当你和敌方都选择“防守”时会结束)"
+msgstr "(当你和敌方都选择“防守”时战斗会结束)"
 
 #: BoardingPanel.cpp:328
 msgid "You retreat to your ships. Combat ends."
@@ -450,7 +453,7 @@ msgstr "二级武器开火"
 
 #: Command.cpp:52
 msgid "Select secondary weapon"
-msgstr "选择二级武器"
+msgstr "选择次要武器"
 
 #: Command.cpp:53
 msgid "Land on planet / station"
@@ -536,7 +539,7 @@ msgstr "”"
 
 #: ConversationPanel.cpp:181
 msgid "[done]"
-msgstr ""
+msgstr "[完成]"
 
 #: ConversationPanel.cpp:224
 msgid "First name:"
@@ -944,19 +947,20 @@ msgstr "（任务目标）"
 
 #: Engine.cpp:1134
 msgid "Entering the %1% system on %2%.%3%"
-msgstr ""
+msgstr "正在进入%1%星系的 %2%的%3%"
 
 #: Engine.cpp:1136
 msgid " No inhabited planets detected."
-msgstr ""
+msgstr " 未检测到宜居星球。"
 
 #: Engine.cpp:1221
 msgid "Your fleet has attracted the interest of a %1% raiding party."
 msgstr ""
 
 #: Engine.cpp:1818
+#, fuzzy
 msgid "The authorities on %1% refuse to let you land."
-msgstr ""
+msgstr "位于%1%的当局拒绝了你的降落请求。"
 
 #: Engine.cpp:1823
 msgctxt "Engine"
@@ -1039,11 +1043,11 @@ msgstr "(对你的信号没有回应)"
 
 #: HailPanel.cpp:63 HailPanel.cpp:137
 msgid "(An alien voice says something in a language you do not recognize.)"
-msgstr "(一个外星人的声音用你不懂的语言说了些什么)"
+msgstr "(一个外星人的声音用你无法理解的语言说了些什么)"
 
 #: HailPanel.cpp:71
 msgid "If you want us to leave you alone, it'll cost you %1% credits."
-msgstr "如果你要我们放过你，给我们 %1% 信用点。"
+msgstr "如果你要我们放过你，那就给我们 %1% 信用点。"
 
 #: HailPanel.cpp:79
 msgid "Sorry, we can't help you, because our ship is disabled."
@@ -1112,7 +1116,7 @@ msgstr "抱歉，我们没有任何燃料。"
 
 #: HailPanel.cpp:272
 msgid "Yeah, right. Don't push your luck."
-msgstr ""
+msgstr "嗯，没错。可别得寸进尺。"
 
 #: HailPanel.cpp:274
 msgid "You don't seem to be in need of repairs or fuel assistance."
@@ -1120,15 +1124,15 @@ msgstr "你看起来不需要维修或补充燃料。"
 
 #: HailPanel.cpp:284
 msgid "Sorry, but you don't have enough money to be worth my while."
-msgstr ""
+msgstr "抱歉，你的信用点可不抵不上我的时间。"
 
 #: HailPanel.cpp:290
 msgid "You bribed a %1% ship %2% credits to refrain from attacking you today."
-msgstr ""
+msgstr "你贿赂了一艘%1%舰船%2%信用点来停止今天对你的攻击。"
 
 #: HailPanel.cpp:297
 msgid "You bribed the authorities on %1% %2% credits to permit you to land."
-msgstr ""
+msgstr "你贿赂了%1%的当局%2%信用点以批准你的降落申请。"
 
 #: HailPanel.cpp:302
 msgid "It's a pleasure doing business with you."
@@ -1179,11 +1183,11 @@ msgstr ""
 
 #: ItemInfoDisplay.cpp:169
 msgid "\tTo purchase this %1% you must have %2%.\n"
-msgstr ""
+msgstr "\t要购买%1%，你必须要有%2%\n"
 
 #: Languages.cpp:362
 msgid "system default"
-msgstr ""
+msgstr "系统默认"
 
 #. TRANSLATORS: strftime format-string for WIN32.
 #: LoadPanel.cpp:63
@@ -1196,9 +1200,10 @@ msgid "%-I:%M %p on %-d %b %Y"
 msgstr ""
 
 #: LoadPanel.cpp:152
+#, fuzzy
 msgctxt "LoadPanel"
 msgid "No Pilot Loaded"
-msgstr ""
+msgstr "未加载飞行员"
 
 #: LoadPanel.cpp:237
 msgid ""
@@ -1207,39 +1212,44 @@ msgid ""
 "\n"
 "(This will permanently delete the pilot data.)"
 msgstr ""
+"确定要删除%1%舰长与其所有的存档吗？\n"
+"（这将无法撤销，直到永恒。）"
 
 #: LoadPanel.cpp:250
+#, fuzzy
 msgid "Enter a name for this snapshot, or use the most recent save's date:"
-msgstr ""
+msgstr "为这个快速存档命名，或加载最近的存档："
 
 #: LoadPanel.cpp:258
 msgid "Are you sure you want to delete the selected saved game file, \"%1%\"?"
-msgstr ""
+msgstr "你确定要删除选择的存档%1%吗？"
 
 #: LoadPanel.cpp:269
+#, fuzzy
 msgid ""
 "If you load this snapshot, it will overwrite your current game. Any progress "
 "will be lost, unless you have saved other snapshots. Are you sure you want "
 "to do that?"
-msgstr ""
+msgstr "如果你加载了这个快速存档，它将覆盖你最近的游戏进度。所有的进度将丢失，除非将其保存在另一个快速存档中。你确定要这么做吗？"
 
 #: LoadPanel.cpp:483
 msgid ""
 "Warning: \"%1%\" is being used for an existing snapshot.\n"
 "Overwrite it?"
-msgstr ""
+msgstr "警告：已存在名称为%1%的快速存档，是否覆盖？"
 
 #: LoadPanel.cpp:504
 msgid "Error: unable to create the file \"%1%\"."
-msgstr ""
+msgstr "错误：无法创建目录“%1%”。"
 
 #: LoadPanel.cpp:548
+#, fuzzy
 msgid "Deleting pilot files failed."
-msgstr ""
+msgstr "无法删除舰长数据。"
 
 #: LoadPanel.cpp:565
 msgid "Deleting snapshot file failed."
-msgstr ""
+msgstr "无法删除快速存档。"
 
 #: LogbookPanel.cpp:52
 msgid "  January"
@@ -1296,7 +1306,7 @@ msgstr ""
 
 #: MainPanel.cpp:217
 msgid "Your escorts will now expend ammo: %1%."
-msgstr ""
+msgstr "你的僚机将消耗%1%的弹药。"
 
 #: MainPanel.cpp:325
 msgctxt "cargo"
@@ -1333,12 +1343,13 @@ msgstr ""
 
 #: MainPanel.cpp:354
 msgid "Your scanners cannot make any sense of this %1%'s interior."
-msgstr ""
+msgstr "你的探测器无法探测到%1%的内部。"
 
 #: MainPanel.cpp:358
+#, fuzzy
 msgctxt "outfit"
 msgid "This %1% is equipped with:\n"
-msgstr ""
+msgstr "%1%将被装备在：\n"
 
 #: MainPanel.cpp:361
 msgctxt "outfit"
@@ -1356,56 +1367,65 @@ msgid "\t%1% %2%\n"
 msgstr ""
 
 #: MainPanel.cpp:398
+#, fuzzy
 msgid "Unable to send hail: your flagship is entering hyperspace."
-msgstr ""
+msgstr "无法发送招呼：你的舰船正在进入超空间。"
 
 #: MainPanel.cpp:400
+#, fuzzy
 msgid "Unable to send hail: your flagship is cloaked."
-msgstr ""
+msgstr "无法发送招呼：你的舰船已隐形。"
 
 #: MainPanel.cpp:408
+#, fuzzy
 msgid "Unable to hail target %1%."
-msgstr ""
+msgstr "无法向%1%发送招呼。"
 
 #: MainPanel.cpp:410
+#, fuzzy
 msgid "Unable to send hail: %1% is entering hyperspace."
-msgstr ""
+msgstr "无法发送招呼：%1%正在进入超空间。"
 
 #: MainPanel.cpp:421
+#, fuzzy
 msgid "Unable to send hail."
-msgstr ""
+msgstr "无法发送招呼。"
 
 #: MainPanel.cpp:433
+#, fuzzy
 msgid "Unable to send hail: %1% is not inhabited."
-msgstr ""
+msgstr "无法发送招呼：%1%没有人居住。"
 
 #: MainPanel.cpp:436
+#, fuzzy
 msgid "Unable to send hail: no target selected."
-msgstr ""
+msgstr "无法发送招呼：没有选择目标。"
 
 #: MapDetailPanel.cpp:313
 msgid "You cannot issue fleet movement orders while docked."
-msgstr ""
+msgstr "你无法在舰队停泊时发出移动指令。"
 
 #: MapDetailPanel.cpp:315
 msgid "You must visit this system before you can send your fleet there."
-msgstr ""
+msgstr "你必须到访该星系后，才能派送舰队前往该星系。"
 
 #: MapDetailPanel.cpp:338
 msgid "Trade prices:"
-msgstr ""
+msgstr "交易价格："
 
 #: MapDetailPanel.cpp:339
 msgid "Ships for sale:"
-msgstr ""
+msgstr "舰船售卖："
 
 #: MapDetailPanel.cpp:340
+#, fuzzy
 msgid "Outfits for sale:"
-msgstr ""
+msgstr "装备售卖："
 
 #: MapDetailPanel.cpp:341
+#, fuzzy
 msgid "You have visited:"
-msgstr ""
+msgstr "您已访问："
 
 #: MapDetailPanel.cpp:342
 #, fuzzy
@@ -1457,9 +1477,10 @@ msgid "60+"
 msgstr ""
 
 #: MapDetailPanel.cpp:385
+#, fuzzy
 msgctxt "visited"
 msgid "All planets"
-msgstr ""
+msgstr "所有星球"
 
 #: MapDetailPanel.cpp:386
 msgctxt "visited"
@@ -3240,7 +3261,7 @@ msgstr "[交易面板] ----"
 
 #: TradingPanel.cpp:197
 msgid "(not for sale)"
-msgstr ""
+msgstr "（非卖品）"
 
 #, fuzzy
 #~ msgid "1 psssenger"
