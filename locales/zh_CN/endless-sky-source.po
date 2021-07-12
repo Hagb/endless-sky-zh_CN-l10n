@@ -21,14 +21,15 @@
 # along with this file.  If not, see <http://www.gnu.org/licenses/>.
 #
 # 不萌 <2369507505@qq.com>, 2021.
+# Hagb Green <hagb_green@qq.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: endless-sky-source "
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-19 01:20+0800\n"
-"PO-Revision-Date: 2021-05-28 15:37+0000\n"
-"Last-Translator: 不萌 <2369507505@qq.com>\n"
+"PO-Revision-Date: 2021-07-12 10:33+0000\n"
+"Last-Translator: Hagb Green <hagb_green@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -1306,7 +1307,7 @@ msgstr ""
 
 #: MainPanel.cpp:217
 msgid "Your escorts will now expend ammo: %1%."
-msgstr "你的僚机将消耗%1%的弹药。"
+msgstr "你的僚机消耗弹药：%1%。"
 
 #: MainPanel.cpp:325
 msgctxt "cargo"
