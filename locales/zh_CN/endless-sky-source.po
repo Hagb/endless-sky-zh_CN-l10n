@@ -29,8 +29,8 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-01 11:04+0000\n"
-"Last-Translator: Weblate Admin <3112743654@qq.com>\n"
+"PO-Revision-Date: 2021-08-01 12:02+0000\n"
+"Last-Translator: 不萌 <2369507505@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -151,7 +151,7 @@ msgstr "你无法为你所有的船员支付薪水。"
 
 #: Account.cpp:210
 msgid "You missed a mortgage payment."
-msgstr "你错过了一次分期贷款的支付。"
+msgstr "你错过了一次分期贷款的支付"
 
 #: Account.cpp:248
 msgctxt "missedPayment"
