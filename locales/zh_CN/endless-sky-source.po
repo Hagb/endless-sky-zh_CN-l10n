@@ -29,8 +29,8 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-01 12:02+0000\n"
-"Last-Translator: 不萌 <2369507505@qq.com>\n"
+"PO-Revision-Date: 2021-08-02 13:41+0000\n"
+"Last-Translator: Weblate Admin <3112743654@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -151,7 +151,7 @@ msgstr "你无法为你所有的船员支付薪水。"
 
 #: Account.cpp:210
 msgid "You missed a mortgage payment."
-msgstr "你错过了一次分期贷款的支付"
+msgstr "你错过了一次分期贷款的支付。"
 
 #: Account.cpp:248
 msgctxt "missedPayment"
@@ -1105,33 +1105,31 @@ msgstr ""
 
 #: MainPanel.cpp:398
 msgid "Unable to send hail: your flagship is entering hyperspace."
-msgstr "无法发送招呼：你的舰船正在进入超空间。"
+msgstr "无法发送通讯请求：你的舰船正在进入超空间。"
 
 #: MainPanel.cpp:400
-#, fuzzy
 msgid "Unable to send hail: your flagship is cloaked."
-msgstr "无法发送招呼：你的舰船已隐形。"
+msgstr "无法发送通讯请求：你的舰船已隐形。"
 
 #: MainPanel.cpp:408
 msgid "Unable to hail target %1%."
-msgstr "无法向 %1% 发送招呼。"
+msgstr "无法向 %1% 发送通讯请求。"
 
 #: MainPanel.cpp:410
 msgid "Unable to send hail: %1% is entering hyperspace."
-msgstr "无法发送招呼：%1% 正在进入超空间。"
+msgstr "无法发送通讯请求：%1% 正在进入超空间。"
 
 #: MainPanel.cpp:421
-#, fuzzy
 msgid "Unable to send hail."
-msgstr "无法发送招呼。"
+msgstr "无法发送通讯请求。"
 
 #: MainPanel.cpp:433
 msgid "Unable to send hail: %1% is not inhabited."
-msgstr "无法发送招呼：%1% 无人居住。"
+msgstr "无法发送通讯请求：%1% 无人居住。"
 
 #: MainPanel.cpp:436
 msgid "Unable to send hail: no target selected."
-msgstr "无法发送招呼：没有选择目标。"
+msgstr "无法发送通讯请求：没有选择目标。"
 
 #: StartConditions.h:68
 msgid "(Unnamed start)"
@@ -2180,10 +2178,9 @@ msgid_plural "%2% %3% were %4% %5%"
 msgstr[0] "%3%が%2%個、あなたの%5%に%4%。"
 
 #: MissionAction.cpp:574
-#, fuzzy
 msgid "%1% credit"
 msgid_plural "%1% credits"
-msgstr[0] "%1% クレジット"
+msgstr[0] "%1% 信用点"
 
 #: Languages.cpp:362
 msgid "system default"
