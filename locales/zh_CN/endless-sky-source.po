@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-03 11:37+0000\n"
+"PO-Revision-Date: 2021-08-04 16:25+0000\n"
 "Last-Translator: Weblate Admin <3112743654@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
@@ -954,7 +954,7 @@ msgstr ""
 
 #: ShipyardPanel.cpp:164
 msgid "No Ship Selected"
-msgstr ""
+msgstr "未选中舰船"
 
 #: ShipyardPanel.cpp:269
 msgid ""
