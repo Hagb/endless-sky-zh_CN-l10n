@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-02 13:41+0000\n"
+"PO-Revision-Date: 2021-08-03 11:37+0000\n"
 "Last-Translator: Weblate Admin <3112743654@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
@@ -38,7 +38,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.6.2\n"
+"X-Generator: Weblate 4.7.2\n"
 "X-Revision: 3\n"
 
 #: MapOutfitterPanel.cpp:39
@@ -391,7 +391,7 @@ msgstr ""
 
 #: OutfitInfoDisplay.cpp:183 ShipInfoDisplay.cpp:136
 msgid "cost (%1%%):"
-msgstr ""
+msgstr "估价 (%1%%):"
 
 #: OutfitInfoDisplay.cpp:194
 msgid "sells for (%1%%):"
@@ -1155,7 +1155,7 @@ msgstr ""
 
 #: PlayerInfo.cpp:562
 msgid "You failed to meet the deadline for the mission \"%1%\"."
-msgstr ""
+msgstr "您未能在任务“%1%”的截止日期前完成任务。"
 
 #: PlayerInfo.cpp:576
 msgid "You receive "
@@ -1220,12 +1220,12 @@ msgstr[0] ""
 
 #: PlayerInfo.cpp:1403
 msgid "Mission \"%1%\" failed because you do not have space for the cargo."
-msgstr ""
+msgstr "任务“%1%”失败，因为您没有空间放置货物。"
 
 #: PlayerInfo.cpp:1411
 msgid ""
 "Mission \"%1%\" failed because you do not have enough passenger bunks free."
-msgstr ""
+msgstr "任务“%1%”失败，因为您没有足够的空闲乘客铺位。"
 
 #: PlayerInfo.cpp:1464
 msgid "You sold %1% tons of excess cargo for %2% credits"
@@ -1914,7 +1914,7 @@ msgstr "热量"
 
 #: ShipInfoDisplay.cpp:373
 msgid "This ship will sell for:"
-msgstr ""
+msgstr "本船售价信息:"
 
 #: Preferences.cpp:45
 msgctxt "vsync"
