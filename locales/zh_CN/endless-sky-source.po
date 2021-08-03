@@ -22,16 +22,17 @@
 #
 # 不萌 <2369507505@qq.com>, 2021.
 # Hagb Green <hagb_green@qq.com>, 2021.
+# Weblate Admin <3112743654@qq.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: endless-sky-source "
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-07-27 14:19+0000\n"
-"Last-Translator: Hagb Green <hagb_green@qq.com>\n"
-"Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/endless-"
-"sky/endless-sky-source/zh_Hans/>\n"
+"PO-Revision-Date: 2021-08-01 11:04+0000\n"
+"Last-Translator: Weblate Admin <3112743654@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
+"endless-sky/endless-sky-source/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -93,7 +94,7 @@ msgstr "更改这艘船的名字？"
 msgid ""
 "Are you sure you want to disown \"%1%\"? Disowning a ship rather than "
 "selling it means you will not get any money for it."
-msgstr ""
+msgstr "你真的要丢弃 \"%1%\" 吗？丢弃一艘船，而非卖掉它，意味着你将无法得到任何金钱回报。"
 
 #: ShipInfoPanel.cpp:176 ShipInfoPanel.cpp:182
 msgid "How many tons of %1% do you want to jettison?"
@@ -137,7 +138,7 @@ msgstr "乘客："
 
 #: ShipInfoPanel.cpp:715 ShipInfoPanel.cpp:731 ShipInfoPanel.cpp:750
 msgid "You jettisoned %1% credits worth of cargo."
-msgstr ""
+msgstr "你丢弃了价值 %1% 信用点的货物。"
 
 #: Account.cpp:36
 msgctxt "Expenses"
@@ -201,7 +202,7 @@ msgstr ""
 #: Mission.cpp:125
 msgctxt "Item of <stopovers>"
 msgid "%1% in the %2% system"
-msgstr ""
+msgstr "%1% 在 %2% 星系"
 
 #: Mission.cpp:858
 #, fuzzy
@@ -239,14 +240,13 @@ msgstr ""
 
 #: Mission.cpp:1050
 msgid "Your ship '%1%' has been %2%. Mission failed: \"%3%\"."
-msgstr ""
+msgstr "你的舰船 '%1%' 已经 %2%。任务失败: \"%3%\"。"
 
 #: Mission.cpp:1261
-#, fuzzy
 msgctxt "Subs <tons>"
 msgid "%1% ton"
 msgid_plural "%1% tons"
-msgstr[0] "%1%トン"
+msgstr[0] "%1% 吨"
 
 #: Mission.cpp:1263
 msgctxt "Subs <cargo>"
@@ -254,23 +254,21 @@ msgid "%1% of %2%"
 msgstr ""
 
 #: Mission.cpp:1265
-#, fuzzy
 msgctxt "Subs <passengers>"
 msgid "passenger"
 msgid_plural "passengers"
-msgstr[0] "乗客"
+msgstr[0] "旅客"
 
 #: Mission.cpp:1266
-#, fuzzy
 msgctxt "Subs <fare>"
 msgid "a passenger"
 msgid_plural "%1% passengers"
-msgstr[0] "%1% 人の乗客"
+msgstr[0] "%1% 位旅客"
 
 #: Mission.cpp:1274
 msgctxt "Subs <destination>"
 msgid "%1% in the %2% system"
-msgstr ""
+msgstr "%1% 在 %2% 星系"
 
 #: ShopPanel.cpp:190
 msgid "Your Ships:"
@@ -530,9 +528,8 @@ msgid "Your fleet has attracted the interest of a %1% raiding party."
 msgstr ""
 
 #: Engine.cpp:1818
-#, fuzzy
 msgid "The authorities on %1% refuse to let you land."
-msgstr "位于%1%的当局拒绝了你的降落请求。"
+msgstr "%1% 的当地管理者拒绝了你的降落请求。"
 
 #: Engine.cpp:1823
 msgctxt "Engine"
@@ -817,7 +814,7 @@ msgstr ""
 msgid ""
 "This outfit is ammunition for a weapon. You cannot install it without first "
 "installing the appropriate weapon."
-msgstr ""
+msgstr "这件装备属于武器弹药。在你安装对应类型的武器之前，无法采购相关的弹药。"
 
 #: OutfitterPanel.cpp:539
 msgid ""
@@ -930,7 +927,7 @@ msgstr "显示货仓中的装备"
 # 下接 ship?
 #: OutfitterPanel.cpp:984
 msgid "Do you want to reload all the ammunition for your "
-msgstr "你确定给你的舰船填充所有的弹药吗"
+msgstr "是否要重新装载全部弹药，对于你的 "
 
 # 上接 Do you want to reload all the ammunition for your
 #: OutfitterPanel.cpp:985
@@ -968,13 +965,12 @@ msgstr ""
 
 #: ShipyardPanel.cpp:274
 msgid "Enter a name for your brand new %1%!"
-msgstr ""
+msgstr "为您的新 %1% 输入一个名字！"
 
 #: ShipyardPanel.cpp:275
-#, fuzzy
 msgid " (Or leave it blank to use a randomly chosen name.)"
 msgid_plural "(Or leave it blank to use randomly chosen names.)"
-msgstr[0] "　(入れなければ、適当な名前が選ばれてつけられます｡)"
+msgstr[0] " (留空将使用随机名。)"
 
 #: ShipyardPanel.cpp:294
 msgid ""
@@ -1088,10 +1084,9 @@ msgid "Your scanners cannot make any sense of this %1%'s interior."
 msgstr "你的探测器无法探测到%1%的内部。"
 
 #: MainPanel.cpp:358
-#, fuzzy
 msgctxt "outfit"
 msgid "This %1% is equipped with:\n"
-msgstr "%1%将被装备在：\n"
+msgstr "%1% 已经装备于:\n"
 
 #: MainPanel.cpp:361
 msgctxt "outfit"
@@ -1109,7 +1104,6 @@ msgid "\t%1% %2%\n"
 msgstr ""
 
 #: MainPanel.cpp:398
-#, fuzzy
 msgid "Unable to send hail: your flagship is entering hyperspace."
 msgstr "无法发送招呼：你的舰船正在进入超空间。"
 
@@ -1119,14 +1113,12 @@ msgid "Unable to send hail: your flagship is cloaked."
 msgstr "无法发送招呼：你的舰船已隐形。"
 
 #: MainPanel.cpp:408
-#, fuzzy
 msgid "Unable to hail target %1%."
-msgstr "无法向%1%发送招呼。"
+msgstr "无法向 %1% 发送招呼。"
 
 #: MainPanel.cpp:410
-#, fuzzy
 msgid "Unable to send hail: %1% is entering hyperspace."
-msgstr "无法发送招呼：%1%正在进入超空间。"
+msgstr "无法发送招呼：%1% 正在进入超空间。"
 
 #: MainPanel.cpp:421
 #, fuzzy
@@ -1134,12 +1126,10 @@ msgid "Unable to send hail."
 msgstr "无法发送招呼。"
 
 #: MainPanel.cpp:433
-#, fuzzy
 msgid "Unable to send hail: %1% is not inhabited."
-msgstr "无法发送招呼：%1%没有人居住。"
+msgstr "无法发送招呼：%1% 无人居住。"
 
 #: MainPanel.cpp:436
-#, fuzzy
 msgid "Unable to send hail: no target selected."
 msgstr "无法发送招呼：没有选择目标。"
 
@@ -1777,7 +1767,7 @@ msgstr[0] "该任务要求"
 
 #: AI.cpp:3203
 msgid " landing on %1% in the system you are jumping to."
-msgstr ""
+msgstr " 你跳转到本星系并在 %1% 上降落。"
 
 #: AI.cpp:3363 AI.cpp:3407
 msgid "The authorities on this %1% refuse to clear you to land here."
@@ -1865,51 +1855,51 @@ msgstr "抵押贷款"
 
 #: LogbookPanel.cpp:52
 msgid "  January"
-msgstr " 一月"
+msgstr "  一月"
 
 #: LogbookPanel.cpp:52
 msgid "  February"
-msgstr " 二月"
+msgstr "  二月"
 
 #: LogbookPanel.cpp:52
 msgid "  March"
-msgstr " 三月"
+msgstr "  三月"
 
 #: LogbookPanel.cpp:52
 msgid "  April"
-msgstr " 四月"
+msgstr "  四月"
 
 #: LogbookPanel.cpp:52
 msgid "  May"
-msgstr " 五月"
+msgstr "  五月"
 
 #: LogbookPanel.cpp:52
 msgid "  June"
-msgstr " 六月"
+msgstr "  六月"
 
 #: LogbookPanel.cpp:53
 msgid "  July"
-msgstr " 七月"
+msgstr "  七月"
 
 #: LogbookPanel.cpp:53
 msgid "  August"
-msgstr " 八月"
+msgstr "  八月"
 
 #: LogbookPanel.cpp:53
 msgid "  September"
-msgstr " 九月"
+msgstr "  九月"
 
 #: LogbookPanel.cpp:53
 msgid "  October"
-msgstr " 十月"
+msgstr "  十月"
 
 #: LogbookPanel.cpp:53
 msgid "  November"
-msgstr " 十一月"
+msgstr "  十一月"
 
 #: LogbookPanel.cpp:53
 msgid "  December"
-msgstr " 十二月"
+msgstr "  十二月"
 
 #. TRANSLATORS: %1%: year.
 #: LogbookPanel.cpp:56
@@ -2644,7 +2634,7 @@ msgstr[0] "可容纳 %1% 名乘客的客仓"
 
 #: PlanetPanel.cpp:316
 msgid " and not having enough "
-msgstr "并且没有足够的"
+msgstr " 并且没有足够的 "
 
 #: PlanetPanel.cpp:317
 msgid "cargo space to hold 1 ton of your mission cargo"
@@ -3098,9 +3088,8 @@ msgid "Outfits for sale:"
 msgstr "装备售卖："
 
 #: MapDetailPanel.cpp:341
-#, fuzzy
 msgid "You have visited:"
-msgstr "您已访问："
+msgstr "您已访问过:"
 
 #: MapDetailPanel.cpp:342
 #, fuzzy
@@ -3152,7 +3141,6 @@ msgid "60+"
 msgstr ""
 
 #: MapDetailPanel.cpp:385
-#, fuzzy
 msgctxt "visited"
 msgid "All planets"
 msgstr "所有星球"
@@ -3252,10 +3240,9 @@ msgid "%-I:%M %p on %-d %b %Y"
 msgstr ""
 
 #: LoadPanel.cpp:152
-#, fuzzy
 msgctxt "LoadPanel"
 msgid "No Pilot Loaded"
-msgstr "未加载飞行员"
+msgstr "未加载宇航员"
 
 #: LoadPanel.cpp:237
 msgid ""
@@ -3264,42 +3251,40 @@ msgid ""
 "\n"
 "(This will permanently delete the pilot data.)"
 msgstr ""
-"确定要删除%1%舰长与其所有的存档吗？\n"
-"（这将无法撤销，直到永恒。）"
+"确定要删除 \"%1%\" 宇航员，及其所有的存档吗？\n"
+"\n"
+"(这将永久的删除该宇航员的数据。)"
 
 #: LoadPanel.cpp:250
-#, fuzzy
 msgid "Enter a name for this snapshot, or use the most recent save's date:"
-msgstr "为这个快速存档命名，或加载最近的存档："
+msgstr "为这个快速存档命名，或加载最近的存档:"
 
 #: LoadPanel.cpp:258
 msgid "Are you sure you want to delete the selected saved game file, \"%1%\"?"
 msgstr "你确定要删除选择的存档%1%吗？"
 
 #: LoadPanel.cpp:269
-#, fuzzy
 msgid ""
 "If you load this snapshot, it will overwrite your current game. Any progress "
 "will be lost, unless you have saved other snapshots. Are you sure you want "
 "to do that?"
-msgstr ""
-"如果你加载了这个快速存档，它将覆盖你最近的游戏进度。所有的进度将丢失，除非将"
-"其保存在另一个快速存档中。你确定要这么做吗？"
+msgstr "如果你加载了这个快速存档，它将覆盖你最近的游戏进度。所有的进度将丢失，除非将其保存在另一个快速存档中。你确定要这么做吗？"
 
 #: LoadPanel.cpp:483
 msgid ""
 "Warning: \"%1%\" is being used for an existing snapshot.\n"
 "Overwrite it?"
-msgstr "警告：已存在名称为%1%的快速存档，是否覆盖？"
+msgstr ""
+"警告：已存在名称为 \"%1%\" 的快速存档。\n"
+"是否覆盖它？"
 
 #: LoadPanel.cpp:504
 msgid "Error: unable to create the file \"%1%\"."
 msgstr "错误：无法创建目录“%1%”。"
 
 #: LoadPanel.cpp:548
-#, fuzzy
 msgid "Deleting pilot files failed."
-msgstr "无法删除舰长数据。"
+msgstr "删除舰长数据失败。"
 
 #: LoadPanel.cpp:565
 msgid "Deleting snapshot file failed."
