@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-04 16:25+0000\n"
+"PO-Revision-Date: 2021-08-05 01:21+0000\n"
 "Last-Translator: Weblate Admin <3112743654@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
@@ -126,7 +126,7 @@ msgstr "型号："
 
 #: ShipInfoPanel.cpp:460 ShipInfoPanel.cpp:504
 msgid "[empty]"
-msgstr ""
+msgstr "[empty]"
 
 #: ShipInfoPanel.cpp:532
 msgid "Cargo"
@@ -143,7 +143,7 @@ msgstr "你丢弃了价值 %1% 信用点的货物。"
 #: Account.cpp:36
 msgctxt "Expenses"
 msgid ": and :, :, and "
-msgstr ""
+msgstr ": 和 :, :, 和 "
 
 #: Account.cpp:168
 msgid "You could not pay all your crew salaries."
@@ -156,7 +156,7 @@ msgstr "你错过了一次分期贷款的支付。"
 #: Account.cpp:248
 msgctxt "missedPayment"
 msgid " "
-msgstr ""
+msgstr " "
 
 #: Account.cpp:252
 msgctxt "Expenses"
@@ -182,7 +182,7 @@ msgstr "罚金"
 msgctxt "Expenses"
 msgid "%1% credit in %2%"
 msgid_plural "%1% credits in %2%"
-msgstr[0] ""
+msgstr[0] "%1% 信用点 in %2%"
 
 #: Account.cpp:268
 msgctxt "Expenses"
@@ -192,12 +192,12 @@ msgstr "你支付了 %1%。"
 #: Mission.cpp:116
 msgctxt "stopovers"
 msgid ": and :, :, and "
-msgstr ""
+msgstr ": 和 :, :, 和 "
 
 #: Mission.cpp:117
 msgctxt "waypoints"
 msgid ": and :, :, and "
-msgstr ""
+msgstr ": 和 :, :, 和 "
 
 #: Mission.cpp:125
 msgctxt "Item of <stopovers>"
@@ -205,10 +205,9 @@ msgid "%1% in the %2% system"
 msgstr "%1% 在 %2% 星系"
 
 #: Mission.cpp:858
-#, fuzzy
 msgid "another bunk"
 msgid_plural "%1% more bunks"
-msgstr[0] "あと %1% 室の船室"
+msgstr[0] "至少 %1% 铺位"
 
 #: Mission.cpp:860
 msgctxt "Mission"
@@ -216,14 +215,13 @@ msgid " and "
 msgstr " 和 "
 
 #: Mission.cpp:862
-#, fuzzy
 msgid "another ton"
 msgid_plural "%1% more tons"
-msgstr[0] "あと %1%トン"
+msgstr[0] "至少 %1% 吨位"
 
 #: Mission.cpp:863
 msgid " of cargo space"
-msgstr ""
+msgstr " of 货物空间"
 
 #: Mission.cpp:908
 msgid ""
@@ -232,11 +230,11 @@ msgstr ""
 
 #: Mission.cpp:1035
 msgid "lost"
-msgstr ""
+msgstr "失去"
 
 #: Mission.cpp:1043
 msgid "plundered"
-msgstr ""
+msgstr "掠夺"
 
 #: Mission.cpp:1050
 msgid "Your ship '%1%' has been %2%. Mission failed: \"%3%\"."
@@ -251,7 +249,7 @@ msgstr[0] "%1% 吨"
 #: Mission.cpp:1263
 msgctxt "Subs <cargo>"
 msgid "%1% of %2%"
-msgstr ""
+msgstr "%1% 关于 %2%"
 
 #: Mission.cpp:1265
 msgctxt "Subs <passengers>"
@@ -383,11 +381,11 @@ msgstr "这不是一件可安装的物品。"
 
 #: OutfitInfoDisplay.cpp:127
 msgid "Allows you to make hyperjumps."
-msgstr ""
+msgstr "你可以进行超空间跃迁。"
 
 #: OutfitInfoDisplay.cpp:128
 msgid "Lets you jump to any nearby system."
-msgstr ""
+msgstr "你可以跳转到附近的任何星系。"
 
 #: OutfitInfoDisplay.cpp:183 ShipInfoDisplay.cpp:136
 msgid "cost (%1%%):"
@@ -399,36 +397,36 @@ msgstr "出售给商店（%1%%）："
 
 #: OutfitInfoDisplay.cpp:375
 msgid "continuous"
-msgstr ""
+msgstr "继续"
 
 #: OutfitInfoDisplay.cpp:391
 msgctxt "homing skills"
 msgid "none"
-msgstr ""
+msgstr "无"
 
 #: OutfitInfoDisplay.cpp:392
 msgctxt "homing skills"
 msgid "poor"
-msgstr ""
+msgstr "贫穷"
 
 #: OutfitInfoDisplay.cpp:393
 msgctxt "homing skills"
 msgid "fair"
-msgstr ""
+msgstr "公平"
 
 #: OutfitInfoDisplay.cpp:394
 msgctxt "homing skills"
 msgid "good"
-msgstr ""
+msgstr "良好"
 
 #: OutfitInfoDisplay.cpp:395
 msgctxt "homing skills"
 msgid "excellent"
-msgstr ""
+msgstr "杰出"
 
 #: SpaceportPanel.cpp:74
 msgid "%1%:"
-msgstr ""
+msgstr "%1%："
 
 #: MapShipyardPanel.cpp:38
 msgid "Has no shipyard"
@@ -455,12 +453,12 @@ msgstr "%1% 防护罩 / %2% 船体"
 #: Engine.cpp:167
 msgctxt "Send Message"
 msgid "%1% %2% \"%3%\": "
-msgstr ""
+msgstr "%1% %2% “%3%”： "
 
 #: Engine.cpp:169
 msgctxt "Send Message"
 msgid "%1% (%2%): "
-msgstr ""
+msgstr "%1% (%2%)： "
 
 #: Engine.cpp:625
 msgid "Your ship has overheated."
@@ -525,7 +523,7 @@ msgstr " 未检测到宜居星球。"
 
 #: Engine.cpp:1221
 msgid "Your fleet has attracted the interest of a %1% raiding party."
-msgstr ""
+msgstr "你的舰船吸引了一支 %1% 突袭队的注意力。"
 
 #: Engine.cpp:1818
 msgid "The authorities on %1% refuse to let you land."
@@ -584,37 +582,37 @@ msgstr "。请协助我们！"
 #: text/Format.cpp:28
 msgctxt "decimal point"
 msgid "."
-msgstr ""
+msgstr "。"
 
 #: text/Format.cpp:29
 msgctxt "decimal separator"
 msgid ","
-msgstr ""
+msgstr "，"
 
 #: text/Format.cpp:107
 msgctxt "play time"
 msgid "%1%s"
-msgstr ""
+msgstr "%1%秒"
 
 #: text/Format.cpp:108
 msgctxt "play time"
 msgid "%2%m %1%s"
-msgstr ""
+msgstr "%2%分 %1%秒"
 
 #: text/Format.cpp:109
 msgctxt "play time"
 msgid "%3%h %2%m %1%s"
-msgstr ""
+msgstr "%3%时 %2%分 %1%秒"
 
 #: text/Format.cpp:110
 msgctxt "play time"
 msgid "%4%d %3%h %2%m %1%s"
-msgstr ""
+msgstr "%4%天 %3%时 %2%分 %1%秒"
 
 #: text/Format.cpp:111
 msgctxt "play time"
 msgid "%5%y %4%d %3%h %2%m %1%s"
-msgstr ""
+msgstr "%5%年 %4%天 %3%时 %2%分 %1%秒"
 
 #: Ship.cpp:139
 msgid "Transport"
@@ -655,46 +653,46 @@ msgstr "无人机"
 #: Ship.cpp:471
 msgctxt "ship"
 msgid "ship"
-msgstr ""
+msgstr "舰船"
 
 #: Ship.cpp:1691
 msgid ""
 "The %1% is moving erratically because there are not enough crew to pilot it."
-msgstr ""
+msgstr "由于没有足够的机组人员驾驶，%1% 的移动属于不稳定状态。"
 
 #: Ship.cpp:1694
 msgid ""
 "Your ship is moving erratically because you do not have enough crew to pilot "
 "it."
-msgstr ""
+msgstr "你的舰船的移动处于不稳定状态，因为你没有足够的船员驾驶它。"
 
 #: Ship.cpp:1850
 msgid "You cannot board a ship while cloaked."
-msgstr ""
+msgstr "你不能在隐身状态下登船。"
 
 #: Ship.cpp:1858
 msgid "The %1% \"%2%\" has activated its self-destruct mechanism."
-msgstr ""
+msgstr "%1% “%2%”已激活其自毁机制。"
 
 #: Ship.cpp:2270
 msgid "Attempting to scan the %1% \"%2%\"."
-msgstr ""
+msgstr "正在尝试扫描%1% “%2%”。"
 
 #: Ship.cpp:2273
 msgid "Attempting to scan the selected %1%."
-msgstr ""
+msgstr "正在尝试扫描选定的 %1%。"
 
 #: Ship.cpp:2276
 msgid "The %1% %2% \"%3%\" is attempting to scan you."
-msgstr ""
+msgstr "%1% %2% “%3%” 正在尝试扫描您。"
 
 #: Ship.cpp:2282
 msgid "The %1% %2% \"%3%\" completed its scan of your cargo."
-msgstr ""
+msgstr "%1% %2% “%3%”已完成对您的货物的扫描。"
 
 #: Ship.cpp:2285
 msgid "The %1% %2% \"%3%\" completed its scan of your outfits."
-msgstr ""
+msgstr "%1% %2% “%3%”已完成对您的装备的扫描。"
 
 #: OutfitterPanel.cpp:49
 msgid " ton"
@@ -707,7 +705,7 @@ msgstr "已安装：%1%"
 
 #: OutfitterPanel.cpp:172
 msgid " - %1%"
-msgstr ""
+msgstr " - %1%"
 
 #: OutfitterPanel.cpp:188
 msgid "cargo+stored: %1%, in stock: %2%"
@@ -801,14 +799,14 @@ msgid ""
 "Only part of your ship's outfit capacity is usable for weapons. You cannot "
 "install this outfit, because it takes up %1% of weapon space, and this ship "
 "has %2% free."
-msgstr ""
+msgstr "你的飞船装备容量中仅剩的一部分不足以容纳该武器。你不能安装这套装备，因为它占据了 %1% 的武器空间，而这艘船只有 %2% 的空闲空间。"
 
 #: OutfitterPanel.cpp:527
 msgid ""
 "Only part of your ship's outfit capacity is usable for engines. You cannot "
 "install this outfit, because it takes up %1% of engine space, and this ship "
 "has %2% free."
-msgstr ""
+msgstr "你的飞船装备容量中仅剩的一部分不足以容纳该引擎。你不能安装这套装备，因为它占据了 %1% 的引擎空间，而这艘船只有 %2% 的空闲空间。"
 
 #: OutfitterPanel.cpp:536
 msgid ""
@@ -821,19 +819,19 @@ msgid ""
 "You already have the maximum amount of ammunition for this weapon. If you "
 "want to install more ammunition, you must first install another of these "
 "weapons."
-msgstr ""
+msgstr "您已经拥有该武器的最大弹药量。如果你想储备更多的弹药，你必须先安装另一个同样的武器。"
 
 #: OutfitterPanel.cpp:548
 msgid ""
 "This weapon is designed to be installed on a turret mount, but your ship "
 "does not have any unused turret mounts available."
-msgstr ""
+msgstr "这种武器被设计成安装在炮位上，但是你的船没有任何空闲的炮塔底座。"
 
 #: OutfitterPanel.cpp:557
 msgid ""
 "This weapon is designed to be installed in a gun port, but your ship does "
 "not have any unused gun ports available."
-msgstr ""
+msgstr "这种武器被设计成安装在炮口，但是你的舰船没有任何未使用的炮口。"
 
 #: OutfitterPanel.cpp:564
 msgid "This item is not an outfit that can be installed in a ship."
@@ -941,7 +939,7 @@ msgstr " 这花费 %1% 信用点。"
 
 #: ShipyardPanel.cpp:61
 msgid "Random"
-msgstr ""
+msgstr "随意"
 
 # ZWSはmsgfmtの警告よけ
 #: ShipyardPanel.cpp:90
@@ -951,6 +949,9 @@ msgid ""
 ":,\n"
 "and "
 msgstr ""
+": 和 :,\n"
+":,\n"
+"和 "
 
 #: ShipyardPanel.cpp:164
 msgid "No Ship Selected"
@@ -961,7 +962,7 @@ msgid ""
 "Note: you will need to pay %1% credits for the licenses required to operate "
 "this ship, in addition to its cost. If that is okay with you, go ahead and "
 "enter a name for your brand new %2%!"
-msgstr ""
+msgstr "注意：除了购买成本外，您还需要支付 %1% 的信用点，以获得运营本船所需的许可证。如果您同意，请继续为您的全新 %2% 输入一个名称！"
 
 #: ShipyardPanel.cpp:274
 msgid "Enter a name for your brand new %1%!"
@@ -976,48 +977,46 @@ msgstr[0] " (留空将使用随机名。)"
 msgid ""
 "Buying this ship requires a special license. You will probably need to "
 "complete some sort of mission to get one."
-msgstr ""
+msgstr "购买这艘船需要特殊许可证。你可能需要完成某种任务才能得到一个。"
 
 #: ShipyardPanel.cpp:305
 msgid ""
 "You do not have enough credits to buy this ship. Consider checking if the "
 "bank will offer you a loan."
-msgstr ""
+msgstr "你没有足够的信用点来购买这艘船。如果银行会给你贷款，可以考虑一下。"
 
 #: ShipyardPanel.cpp:308
 msgid ""
 "You do not have enough credits to buy this ship. If you want to buy it, you "
 "must sell %1% first."
-msgstr ""
+msgstr "你没有足够的信用点来购买这艘船。If you want to buy it, you must sell %1% first."
 
 #: ShipyardPanel.cpp:310
-#, fuzzy
 msgid "your current ship"
 msgid_plural "one of your ships"
-msgstr[0] "今のあなたの船"
+msgstr[0] "一艘属于你的船"
 
 #: ShipyardPanel.cpp:335
-#, fuzzy
 msgid "%1% other ship"
 msgid_plural "%1% other ships"
-msgstr[0] "それとほかの船が %1% 隻"
+msgstr[0] "%1% 别人的船"
 
 #: ShipyardPanel.cpp:350
 msgid "\n"
-msgstr ""
+msgstr "\n"
 
 #: ShipyardPanel.cpp:350
 msgctxt "ShipyardPanel"
 msgid " "
-msgstr ""
+msgstr " "
 
 #: ShipyardPanel.cpp:353
 msgid "Sell the %1%%2%for %3% credits?"
-msgstr ""
+msgstr "Sell the %1%%2%for %3% 信用点？"
 
 #: Politics.cpp:239
 msgid " for carrying illegal cargo."
-msgstr ""
+msgstr " 因携带非法货物。"
 
 # ZWSはmsgfmtの警告よけ
 #: Politics.cpp:251
@@ -1026,21 +1025,23 @@ msgid ""
 ".\n"
 "\t"
 msgstr ""
+".\n"
+"\t"
 
 #: Politics.cpp:275
 msgid " for having illegal outfits installed on your ship."
-msgstr ""
+msgstr " 因为你在船上安装了非法装备。"
 
 #: Politics.cpp:292
 msgid ""
 "After scanning your ship, the %1% captain hails you with a grim expression "
 "on his face. He says, \"I'm afraid we're going to have to put you to death%2%"
 "%3% Goodbye.\""
-msgstr ""
+msgstr "扫描完你的飞船后，这位 %1% 舰长满脸严肃的冲你打招呼，他说：“我们不得不处死你%2%%3%，永别了。”"
 
 #: Politics.cpp:300
 msgid "The %1% authorities fine you %2% credits%3%%4%"
-msgstr ""
+msgstr "%1% 势力向你施加罚款 %2% 信用点 %3%%4%"
 
 #: MainPanel.cpp:217
 msgid "Your escorts will now expend ammo: %1%."
@@ -1049,35 +1050,33 @@ msgstr "你的僚机消耗弹药：%1%。"
 #: MainPanel.cpp:325
 msgctxt "cargo"
 msgid "This %1% is carrying:\n"
-msgstr ""
+msgstr "这 %1% 正在运送:\n"
 
 #: MainPanel.cpp:328
-#, fuzzy
 msgctxt "cargo"
 msgid "\t%1% ton of %2%\n"
 msgid_plural "\t%1% tons of %2%\n"
-msgstr[0] "\t%1%トンの%2%\n"
+msgstr[0] "\t%1% 吨关于 %2%\n"
 
 #: MainPanel.cpp:335
 msgctxt "cargo outfit"
 msgid "This %1% is carrying:\n"
-msgstr ""
+msgstr "这 %1% 正在运送:\n"
 
 #: MainPanel.cpp:341
-#, fuzzy
 msgctxt "cargo outfit"
 msgid "\t%1% ton of %2%\n"
 msgid_plural "\t%1% tons of %2%\n"
-msgstr[0] "\t%2%が %1%トン\n"
+msgstr[0] "\t%1% 吨关于 %2%\n"
 
 #: MainPanel.cpp:347
 msgctxt "cargo outfit"
 msgid "\t%1% %2%\n"
-msgstr ""
+msgstr "\t%1% %2%\n"
 
 #: MainPanel.cpp:351
 msgid "This %1% is not carrying any cargo.\n"
-msgstr ""
+msgstr "此 %1% 未装载任何货物。\n"
 
 #: MainPanel.cpp:354
 msgid "Your scanners cannot make any sense of this %1%'s interior."
@@ -1091,17 +1090,17 @@ msgstr "%1% 已经装备于:\n"
 #: MainPanel.cpp:361
 msgctxt "outfit"
 msgid "\t%1% %2%\n"
-msgstr ""
+msgstr "\t%1% %2%\n"
 
 #: MainPanel.cpp:370
 msgctxt "bay"
 msgid "This %1% is carrying:\n"
-msgstr ""
+msgstr "这 %1% 正在运输:\n"
 
 #: MainPanel.cpp:373
 msgctxt "bay"
 msgid "\t%1% %2%\n"
-msgstr ""
+msgstr "\t%1% %2%\n"
 
 #: MainPanel.cpp:398
 msgid "Unable to send hail: your flagship is entering hyperspace."
@@ -1133,7 +1132,7 @@ msgstr "无法发送通讯请求：没有选择目标。"
 
 #: StartConditions.h:68
 msgid "(Unnamed start)"
-msgstr ""
+msgstr "(无名 start)"
 
 #: MenuPanel.cpp:119
 msgid "You have died."
@@ -1152,6 +1151,8 @@ msgid ""
 "\n"
 "\t"
 msgstr ""
+"\n"
+"\t"
 
 #: PlayerInfo.cpp:562
 msgid "You failed to meet the deadline for the mission \"%1%\"."
@@ -1159,64 +1160,63 @@ msgstr "您未能在任务“%1%”的截止日期前完成任务。"
 
 #: PlayerInfo.cpp:576
 msgid "You receive "
-msgstr ""
+msgstr "你收到 "
 
 #: PlayerInfo.cpp:578
 msgid "%1% credits salary"
-msgstr ""
+msgstr "%1% 信用点的薪水"
 
 #: PlayerInfo.cpp:580
 msgctxt "salary and tribute"
 msgid " and "
-msgstr ""
+msgstr " 和 "
 
 #: PlayerInfo.cpp:582
 msgid "%1% credits in tribute"
-msgstr ""
+msgstr "%1% 信用点作为贡品"
 
 #: PlayerInfo.cpp:583
 msgctxt "salary and tribute"
 msgid "."
-msgstr ""
+msgstr "."
 
 #: PlayerInfo.cpp:1212
 msgid ""
 "These active missions or jobs were deactivated due to a missing definition - "
 "perhaps you recently removed a plugin?\n"
-msgstr ""
+msgstr "由于缺少定义，这些活动任务或作业被停用——或许与您最近删除的插件相关？\n"
 
 #: PlayerInfo.cpp:1217
 msgctxt "inactive missions"
 msgid "\t\"%1%\"\n"
-msgstr ""
+msgstr "\t\"%1%\"\n"
 
 #: PlayerInfo.cpp:1221
 msgctxt "inactive missions"
 msgid " and %1% more.\n"
-msgstr ""
+msgstr " 和 %1% more。\n"
 
 #: PlayerInfo.cpp:1223
 msgid "They will be reactivated when the necessary plugin is reinstalled."
-msgstr ""
+msgstr "当重新安装必要的插件时，它们将被重新激活。"
 
 #: PlayerInfo.cpp:1235
-#, fuzzy
 msgid "You hire %1% extra crew member to fill your now-empty bunk."
 msgid_plural "You hire %1% extra crew members to fill your now-empty bunks."
-msgstr[0] "あなたは %1% 人の乗員を余分に雇って空き室を埋めた。"
+msgstr[0] "你雇佣了 %1% 位额外的船员来填满你的空铺位。"
 
 #: PlayerInfo.cpp:1339
 msgid "You fired %1% crew members to free up bunks for passengers."
-msgstr ""
+msgstr "您解雇了 %1% 的船员，以便为乘客腾出铺位。"
 
 #: PlayerInfo.cpp:1350
 msgid "You fired %1% crew members because you have no bunks for them."
-msgstr ""
+msgstr "您解雇了 %1% 的船员，因为您没有足够的铺位了。"
 
 #: PlayerInfo.cpp:1391
 msgid "One escort was unable to dock with a carrier."
 msgid_plural "Some escorts were unable to dock with a carrier."
-msgstr[0] ""
+msgstr[0] "一些护送人员无法与承运人对接。"
 
 #: PlayerInfo.cpp:1403
 msgid "Mission \"%1%\" failed because you do not have space for the cargo."
@@ -1229,16 +1229,16 @@ msgstr "任务“%1%”失败，因为您没有足够的空闲乘客铺位。"
 
 #: PlayerInfo.cpp:1464
 msgid "You sold %1% tons of excess cargo for %2% credits"
-msgstr ""
+msgstr "您以 %2% 的价格售出了 %1% 吨的超载货物"
 
 #: PlayerInfo.cpp:1467
 msgid " (for a profit of %1% credits)."
-msgstr ""
+msgstr " (利润为 %1% 信用点)。"
 
 #: PlayerInfo.cpp:1469
 msgctxt "excess"
 msgid "."
-msgstr ""
+msgstr "."
 
 #: PlayerInfo.cpp:2695
 msgid ""
@@ -1248,6 +1248,8 @@ msgid_plural ""
 "\n"
 "\t(You have %1% other unfinished missions at this location.)"
 msgstr[0] ""
+"\n"
+"\t（您在此位置还有 %1% 其他未完成任务。）"
 
 #: PlayerInfo.cpp:3035
 msgid ""
@@ -1257,6 +1259,8 @@ msgid ""
 "\tYou are sentenced to lifetime imprisonment on a penal colony. Your days of "
 "traveling the stars have come to an end."
 msgstr ""
+"在您离开您的飞船之前，势力 %1% 的人出现并开始扫描它。他们说，“船长%2%，我们在你的船上发现极度危险的非法物品。”\n"
+"\t你被判处终身监禁，将在一个殖民地的重犯监狱里度过余生。你周游星空的日子已经结束了。"
 
 #: Command.cpp:45
 msgid "Show main menu"
@@ -1407,7 +1411,7 @@ msgstr "星期五"
 #: Date.cpp:41 Date.cpp:54 Date.cpp:55 Date.cpp:56
 msgctxt "short month"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #: Date.cpp:42
 msgctxt "short month"
@@ -1472,7 +1476,7 @@ msgstr "12 月"
 #: Date.cpp:60 Date.cpp:73 Date.cpp:74 Date.cpp:75
 msgctxt "full month"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #: Date.cpp:61
 msgctxt "full month"
@@ -1537,7 +1541,7 @@ msgstr "十二月"
 #: Date.cpp:79 Date.cpp:93
 msgctxt "Date"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #: Date.cpp:80
 msgid "1st"
@@ -1703,11 +1707,11 @@ msgstr "已返航%1%架舰载机。"
 #: AI.cpp:307
 msgctxt "AI"
 msgid ": and :, :, and "
-msgstr ""
+msgstr ": 和 :, :, 和 "
 
 #: AI.cpp:308
 msgid ": or :, :, or "
-msgstr ""
+msgstr ": 或 :, :, 或 "
 
 #: AI.cpp:333 AI.cpp:410
 msgid "focusing fire on \"%1%\"."
@@ -1730,7 +1734,6 @@ msgid "Disengaging autopilot."
 msgstr "解除自动驾驶。"
 
 #: AI.cpp:380
-#, fuzzy
 msgid "Coming to a stop."
 msgstr "进站。"
 
@@ -1831,12 +1834,12 @@ msgstr[0] "选择的僚机 "
 #: AI.cpp:3854
 msgctxt "IssueOrders"
 msgid "%1%%2%"
-msgstr ""
+msgstr "%1%%2%"
 
 #: AI.cpp:3859
 msgctxt "IssueOrders"
 msgid "%1%unable to and no longer %2%"
-msgstr ""
+msgstr "%1% 无法且不再是 %2%"
 
 #: AI.cpp:3861
 msgctxt "IssueOrders"
@@ -1902,7 +1905,7 @@ msgstr "  十二月"
 #. TRANSLATORS: %1%: year.
 #: LogbookPanel.cpp:56
 msgid "%1%"
-msgstr ""
+msgstr "%1%"
 
 #: ShipInfoDisplay.cpp:87
 msgid "energy"
@@ -1929,7 +1932,7 @@ msgstr "开"
 #: Preferences.cpp:45
 msgctxt "vsync"
 msgid "adaptive"
-msgstr ""
+msgstr "适应"
 
 #: Preferences.cpp:144
 msgid "frugally"
@@ -1946,7 +1949,7 @@ msgstr "总不"
 #: StellarObject.cpp:72
 msgctxt "StellarObject"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #: Planet.cpp:34
 msgid "wormhole"
@@ -1959,7 +1962,7 @@ msgstr "行星"
 #: Planet.cpp:248
 msgctxt "Planet"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #: Planet.cpp:315
 msgid "moon"
@@ -1971,7 +1974,7 @@ msgstr "空间站"
 
 #: Planet.cpp:570
 msgid "We are already paying you as much as we can afford."
-msgstr ""
+msgstr "我们付给你的钱，是我们能负担得起的极限了。"
 
 #: Planet.cpp:572
 msgid "Please don't joke about that sort of thing."
@@ -2016,7 +2019,7 @@ msgstr "（很高）"
 # 「ト」は左側が空いているので数字とのあいだの空白をあけない
 #: TradingPanel.cpp:76
 msgid "You sold %1% %2% of cargo at a loss of %3% credits."
-msgstr ""
+msgstr "您售出了 %1%%2% 的货物，亏损了 %3% 信用点。"
 
 #: TradingPanel.cpp:77 TradingPanel.cpp:80
 msgctxt "TradingPanel sold"
@@ -2026,7 +2029,7 @@ msgstr[0] "吨"
 
 #: TradingPanel.cpp:79
 msgid "You sold %1% %2% of cargo for a total profit of %3% credits."
-msgstr ""
+msgstr "您销售了 %1% %2% 的货物，总利润为 %3% 信用点。"
 
 #: TradingPanel.cpp:108
 msgid "Commodity"
@@ -2099,7 +2102,6 @@ msgstr "（非卖品）"
 #. TRANSLATORS: of the translated string T("cost (%1%%):") in the context
 #. TRANSLATORS: "ItemInfoDisplay."
 #: GameData.cpp:969
-#, fuzzy
 msgid "cost"
 msgstr "花费"
 
@@ -2116,30 +2118,31 @@ msgstr "任务失败。"
 
 #. TRANSLATORS: This "vowel" determines whether 'A' or 'An' is used.
 #: MissionAction.cpp:38
+#, fuzzy
 msgctxt "MissionAction"
 msgid "aeiou"
-msgstr ""
+msgstr "aeiou"
 
 #. TRANSLATORS: Indefinite article of an outfit.
 #: MissionAction.cpp:40
 msgid "A"
-msgstr ""
+msgstr "一个"
 
 #: MissionAction.cpp:40
 msgid "An"
-msgstr ""
+msgstr "一个"
 
 #: MissionAction.cpp:49
 msgid "The %1% \"%2%\" was added to your fleet."
-msgstr ""
+msgstr "%1% “%2%” 已添加到你的舰队中。"
 
 #: MissionAction.cpp:69
 msgid "added to your"
-msgstr ""
+msgstr "添加到你的"
 
 #: MissionAction.cpp:69
 msgid "removed from your"
-msgstr ""
+msgstr "已移除从你的"
 
 #: MissionAction.cpp:105
 msgid ""
@@ -2148,16 +2151,14 @@ msgid ""
 msgstr ""
 
 #: MissionAction.cpp:107
-#, fuzzy
 msgid "was"
 msgid_plural "were"
-msgstr[0] "​"
+msgstr[0] "是"
 
 #: MissionAction.cpp:107
-#, fuzzy
 msgid "it"
 msgid_plural "them"
-msgstr[0] "​"
+msgstr[0] "他/她们"
 
 #: MissionAction.cpp:113
 msgid "cargo hold and your flagship."
@@ -3080,7 +3081,6 @@ msgid "Ships for sale:"
 msgstr "舰船售卖："
 
 #: MapDetailPanel.cpp:340
-#, fuzzy
 msgid "Outfits for sale:"
 msgstr "装备售卖："
 
