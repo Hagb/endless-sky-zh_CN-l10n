@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-05 01:21+0000\n"
+"PO-Revision-Date: 2021-08-05 02:27+0000\n"
 "Last-Translator: Weblate Admin <3112743654@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
@@ -226,7 +226,7 @@ msgstr " of 货物空间"
 #: Mission.cpp:908
 msgid ""
 "This is a stop for one of your missions, but you have left a ship behind."
-msgstr ""
+msgstr "这是你执行任务的一个地点，but you have left a ship behind."
 
 #: Mission.cpp:1035
 msgid "lost"
@@ -1784,7 +1784,7 @@ msgstr "这个星系没有你可以降落的行星。"
 
 #: AI.cpp:3414
 msgid "You can land on more than one %1% in this system. Landing on %2%."
-msgstr ""
+msgstr "在本星系，你可以登陆 %1% 或更多的地点。正在登陆 %2%。"
 
 #: AI.cpp:3418
 msgctxt "AI"
@@ -2148,7 +2148,7 @@ msgstr "已移除从你的"
 msgid ""
 "The %1% %2% put in your cargo hold because there is not enough space to "
 "install %3% in your ship."
-msgstr ""
+msgstr "因没有足够的空间在您的船上安装 %3%，%1% %2% 已放入您的货舱。"
 
 #: MissionAction.cpp:107
 msgid "was"
@@ -2162,21 +2162,20 @@ msgstr[0] "他/她们"
 
 #: MissionAction.cpp:113
 msgid "cargo hold and your flagship."
-msgstr ""
+msgstr "货舱和你的旗舰。"
 
 #: MissionAction.cpp:115
 msgid "cargo hold."
-msgstr ""
+msgstr "货舱。"
 
 #: MissionAction.cpp:117
 msgid "flagship."
-msgstr ""
+msgstr "旗舰。"
 
 #: MissionAction.cpp:118
-#, fuzzy
 msgid "%1% %3% was %4% %5%"
 msgid_plural "%2% %3% were %4% %5%"
-msgstr[0] "%3%が%2%個、あなたの%5%に%4%。"
+msgstr[0] "%2% %3% 是 %4% %5%"
 
 #: MissionAction.cpp:574
 msgid "%1% credit"
@@ -2209,15 +2208,15 @@ msgstr "\t\t姓名：%1% %2%。\n"
 
 #: PreferencesPanel.cpp:48
 msgid "Main zoom factor"
-msgstr ""
+msgstr "主变焦系数"
 
 #: PreferencesPanel.cpp:52
 msgid "View zoom factor"
-msgstr ""
+msgstr "视图缩放系数"
 
 #: PreferencesPanel.cpp:53
 msgid "VSync"
-msgstr ""
+msgstr "VSync"
 
 #: PreferencesPanel.cpp:54
 msgid "Escorts expend ammo"
@@ -2225,23 +2224,23 @@ msgstr "僚机自行购买弹药"
 
 #: PreferencesPanel.cpp:55
 msgid "Turret tracking"
-msgstr ""
+msgstr "炮塔追踪"
 
 #: PreferencesPanel.cpp:58
 msgid "Reactivate first-time help"
-msgstr ""
+msgstr "重新激活新手教学"
 
 #: PreferencesPanel.cpp:59
 msgid "Scroll speed"
-msgstr ""
+msgstr "滚动速度"
 
 #: PreferencesPanel.cpp:60
 msgid "Repair fighters in"
-msgstr ""
+msgstr "修理战机"
 
 #: PreferencesPanel.cpp:61
 msgid "Ship outlines in shops"
-msgstr ""
+msgstr "商店里的船"
 
 #: PreferencesPanel.cpp:62
 msgid "Language"
@@ -2259,7 +2258,7 @@ msgstr "你的屏幕分辨率太低，不支持高于 100% 的缩放等级。"
 msgid ""
 "Unable to change VSync state. (Your system's graphics settings may be "
 "controlling it instead.)"
-msgstr ""
+msgstr "无法更改 VSync 状态 (您的系统的显卡图形设置可能会控制它。）"
 
 #: PreferencesPanel.cpp:318
 msgid "Navigation"
@@ -2319,7 +2318,7 @@ msgstr "高亮你的旗舰"
 
 #: PreferencesPanel.cpp:446
 msgid "Rotate flagship in HUD"
-msgstr ""
+msgstr "在 HUD 中旋转旗舰"
 
 #: PreferencesPanel.cpp:447
 msgid "Show planet labels"
@@ -2351,7 +2350,7 @@ msgstr "显示 CPU / GPU 负载"
 
 #: PreferencesPanel.cpp:459
 msgid "Render motion blur"
-msgstr ""
+msgstr "渲染运动模糊"
 
 #: PreferencesPanel.cpp:460
 msgid "Reduce large graphics"
@@ -2363,11 +2362,11 @@ msgstr "绘制模糊背景"
 
 #: PreferencesPanel.cpp:462
 msgid "Draw starfield"
-msgstr ""
+msgstr "绘制星云"
 
 #: PreferencesPanel.cpp:463
 msgid "Show hyperspace flash"
-msgstr ""
+msgstr "显示超空间闪光"
 
 #: PreferencesPanel.cpp:466
 msgid "Other"
@@ -2395,39 +2394,39 @@ msgstr "在地图上显示有僚机的星系"
 
 #: PreferencesPanel.cpp:474
 msgid "System map sends move orders"
-msgstr ""
+msgstr "地图系统发出移动命令"
 
 #: PreferencesPanel.cpp:475
 msgid "Warning siren"
-msgstr ""
+msgstr "警笛"
 
 #: PreferencesPanel.cpp:530
 msgid "focused"
-msgstr ""
+msgstr "专注"
 
 #: PreferencesPanel.cpp:530
 msgid "opportunistic"
-msgstr ""
+msgstr "机会主义"
 
 #: PreferencesPanel.cpp:535
 msgid "parallel"
-msgstr ""
+msgstr "相似"
 
 #: PreferencesPanel.cpp:535
 msgid "series"
-msgstr ""
+msgstr "系列"
 
 #: PreferencesPanel.cpp:540
 msgid "fancy"
-msgstr ""
+msgstr "奢华"
 
 #: PreferencesPanel.cpp:540
 msgid "fast"
-msgstr ""
+msgstr "快速"
 
 #: PreferencesPanel.cpp:570
 msgid "done"
-msgstr ""
+msgstr "完成"
 
 #: PreferencesPanel.cpp:589
 msgid "on"
@@ -2457,32 +2456,33 @@ msgstr "舰船"
 
 #. TRANSLATORS: This "vowel" determines whether 'a' or 'an' is used.
 #: ItemInfoDisplay.cpp:39
+#, fuzzy
 msgctxt "ItemInfoDisplay"
 msgid "aeiou"
-msgstr ""
+msgstr "aeiou"
 
 #. TRANSLATORS: Indefinite article of a license.
 #: ItemInfoDisplay.cpp:41
 msgctxt "ItemInfoDisplay"
 msgid "a"
-msgstr ""
+msgstr "一个"
 
 #: ItemInfoDisplay.cpp:41
 msgctxt "ItemInfoDisplay"
 msgid "an"
-msgstr ""
+msgstr "一个"
 
 #. TRANSLATORS: %1%: indefinite article, %2%: license name.
 #: ItemInfoDisplay.cpp:43
 msgctxt "ItemInfoDisplay License"
 msgid "%1% %2%"
-msgstr ""
+msgstr "%1% %2%"
 
 #. TRANSLATORS: The Separators of licenses.
 #: ItemInfoDisplay.cpp:49
 msgctxt "ItemInfoDisplay"
 msgid ": and :, :, and "
-msgstr ""
+msgstr ": 和 :, :, 和 "
 
 #: ItemInfoDisplay.cpp:169
 msgid "\tTo purchase this %1% you must have %2%.\n"
@@ -2509,7 +2509,7 @@ msgstr "搜索："
 #: MapPanel.cpp:1179
 msgctxt "MapPanel"
 msgid "%1%"
-msgstr ""
+msgstr "%1%"
 
 #: MapPanel.cpp:1184
 msgid ""
@@ -2541,7 +2541,7 @@ msgstr[0] "%1% 艘停泊的僚机"
 #: MapPanel.cpp:1203
 msgctxt "MapPanel"
 msgid "\n"
-msgstr ""
+msgstr "\n"
 
 #: MapPanel.cpp:1204
 msgid "%1% stored outfit"
@@ -2583,7 +2583,7 @@ msgstr "无法对接这个空间站。"
 #: StartConditions.cpp:52
 msgctxt "paragraph separator of start condition"
 msgid "\n"
-msgstr ""
+msgstr "\n"
 
 #: StartConditions.cpp:77
 msgid "(No description provided.)"
@@ -2642,29 +2642,29 @@ msgstr[0] "货仓空间以装载 %1% 吨的任务货物"
 #: PlanetPanel.cpp:321
 msgid ""
 "If you take off now you will fail a mission due to not having enough %1%."
-msgstr ""
+msgstr "如果你现在起飞，由于没有足够的 %1%，你将无法完成任务。"
 
 #: PlanetPanel.cpp:327
 msgid "If you take off now you will launch with a ship"
 msgid_plural "If you take off now you will launch with %1% ships"
-msgstr[0] ""
+msgstr[0] "如果您现在起飞，您将启动 %1% 艘船"
 
 #: PlanetPanel.cpp:330
 msgid " that will not be able to leave the system."
-msgstr ""
+msgstr " 这将无法离开星系。"
 
 #: PlanetPanel.cpp:335
 msgid "If you take off now you will have to sell a ton of cargo"
 msgid_plural "If you take off now you will have to sell %1% tons of cargo"
-msgstr[0] ""
+msgstr[0] "如果您现在起飞，您将不得不出售 %1% 吨的货物"
 
 #: PlanetPanel.cpp:338
 msgid " that you do not have space for."
-msgstr ""
+msgstr " 对此你没有足够的空间。"
 
 #: PlanetPanel.cpp:340
 msgid " Are you sure you want to continue?"
-msgstr ""
+msgstr " 你确定你想继续吗？"
 
 #: BankPanel.cpp:43
 msgctxt "BankPanel HEADING"
@@ -2792,12 +2792,12 @@ msgstr "借入多少信用点？"
 #: HailPanel.cpp:52
 msgctxt "HailPanel ship"
 msgid "%1% %2% \"%3%\":"
-msgstr ""
+msgstr "%1% %2% \"%3%\"："
 
 #: HailPanel.cpp:55
 msgctxt "HailPanel"
 msgid "%1% (%2%): "
-msgstr ""
+msgstr "%1% (%2%)： "
 
 #: HailPanel.cpp:61
 msgid "(There is no response to your hail.)"
@@ -2840,7 +2840,7 @@ msgstr "帮你维修？"
 #: HailPanel.cpp:132
 msgctxt "HailPanel planet"
 msgid "%1% %2% \"%3%\":"
-msgstr ""
+msgstr "%1% %2% \"%3%\"："
 
 #: HailPanel.cpp:149
 msgid "You are cleared to land, %1%."
@@ -2906,7 +2906,7 @@ msgstr "我不要你的钱。"
 
 #: PlayerInfoPanel.cpp:80
 msgid "(%1% Others)"
-msgstr ""
+msgstr "(%1% 其他)"
 
 #: PlayerInfoPanel.cpp:499
 msgid "player:"
@@ -3115,27 +3115,27 @@ msgstr "星系："
 #: MapDetailPanel.cpp:371 MapDetailPanel.cpp:372
 msgctxt "LABEL"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: MapDetailPanel.cpp:371 MapDetailPanel.cpp:372
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: MapDetailPanel.cpp:371
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: MapDetailPanel.cpp:371
 msgid "10+"
-msgstr ""
+msgstr "10+"
 
 #: MapDetailPanel.cpp:372
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #: MapDetailPanel.cpp:372
 msgid "60+"
-msgstr ""
+msgstr "60+"
 
 #: MapDetailPanel.cpp:385
 msgctxt "visited"
@@ -3145,12 +3145,12 @@ msgstr "所有星球"
 #: MapDetailPanel.cpp:386
 msgctxt "visited"
 msgid "Some"
-msgstr ""
+msgstr "一些"
 
 #: MapDetailPanel.cpp:387
 msgctxt "visited"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: MapDetailPanel.cpp:419 MapDetailPanel.cpp:504
 msgid "Friendly"
@@ -3208,15 +3208,15 @@ msgstr "(从未到访)"
 #: MapDetailPanel.cpp:567
 msgctxt "MapDetailPanel"
 msgid "----"
-msgstr ""
+msgstr "----"
 
 #: MapDetailPanel.cpp:574
 msgid "(+%1%)"
-msgstr ""
+msgstr "(+%1%)"
 
 #: MapDetailPanel.cpp:576
 msgid "(%1%)"
-msgstr ""
+msgstr "(%1%)"
 
 #: MapDetailPanel.cpp:580
 msgid "n/a"
@@ -3224,12 +3224,12 @@ msgstr "无"
 
 #: MapDetailPanel.cpp:580
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #. TRANSLATORS: strftime format-string for WIN32.
 #: LoadPanel.cpp:63
 msgid "%#I:%M %p on %#d %b %Y"
-msgstr ""
+msgstr "%#I:%M %p 在 %#d %b %Y"
 
 #. TRANSLATORS: strftime format-string for UN*X.
 #: LoadPanel.cpp:66
