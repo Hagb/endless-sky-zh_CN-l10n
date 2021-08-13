@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-12 14:47+0000\n"
+"PO-Revision-Date: 2021-08-13 16:16+0000\n"
 "Last-Translator: Weblate Admin <3112743654@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
@@ -582,7 +582,7 @@ msgstr "。请协助我们！"
 #: text/Format.cpp:28
 msgctxt "decimal point"
 msgid "."
-msgstr "点"
+msgstr "."
 
 #: text/Format.cpp:29
 msgctxt "decimal separator"
@@ -1178,7 +1178,7 @@ msgstr "%1% 信用点作为贡品"
 #: PlayerInfo.cpp:583
 msgctxt "salary and tribute"
 msgid "."
-msgstr "点"
+msgstr "."
 
 #: PlayerInfo.cpp:1212
 msgid ""
@@ -1238,7 +1238,7 @@ msgstr " (利润为 %1% 信用点)。"
 #: PlayerInfo.cpp:1469
 msgctxt "excess"
 msgid "."
-msgstr "点"
+msgstr "."
 
 #: PlayerInfo.cpp:2695
 msgid ""
