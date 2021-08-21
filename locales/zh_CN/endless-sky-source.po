@@ -29,7 +29,7 @@ msgstr ""
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-13 16:16+0000\n"
+"PO-Revision-Date: 2021-08-21 00:54+0000\n"
 "Last-Translator: Weblate Admin <3112743654@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
@@ -249,7 +249,7 @@ msgstr[0] "%1% 吨"
 #: Mission.cpp:1263
 msgctxt "Subs <cargo>"
 msgid "%1% of %2%"
-msgstr "%1% 关于 %2%"
+msgstr "%1% 的 %2%"
 
 #: Mission.cpp:1265
 msgctxt "Subs <passengers>"
@@ -1056,7 +1056,7 @@ msgstr "这 %1% 正在运送:\n"
 msgctxt "cargo"
 msgid "\t%1% ton of %2%\n"
 msgid_plural "\t%1% tons of %2%\n"
-msgstr[0] "\t%1% 吨关于 %2%\n"
+msgstr[0] "\t%1% 吨的 %2%\n"
 
 #: MainPanel.cpp:335
 msgctxt "cargo outfit"
@@ -1067,7 +1067,7 @@ msgstr "这 %1% 正在运送:\n"
 msgctxt "cargo outfit"
 msgid "\t%1% ton of %2%\n"
 msgid_plural "\t%1% tons of %2%\n"
-msgstr[0] "\t%1% 吨关于 %2%\n"
+msgstr[0] "\t%1% 吨的 %2%\n"
 
 #: MainPanel.cpp:347
 msgctxt "cargo outfit"
