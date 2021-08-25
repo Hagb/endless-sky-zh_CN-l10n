@@ -23,14 +23,15 @@
 # 不萌 <2369507505@qq.com>, 2021.
 # Hagb Green <hagb_green@qq.com>, 2021.
 # Weblate Admin <3112743654@qq.com>, 2021.
+# fw <3421351924@qq.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: endless-sky-source "
 "5d4c59f57b3823114703f6129281c2ca661c4a04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-27 22:26+0800\n"
-"PO-Revision-Date: 2021-08-22 09:08+0000\n"
-"Last-Translator: Weblate Admin <3112743654@qq.com>\n"
+"PO-Revision-Date: 2021-08-25 15:07+0000\n"
+"Last-Translator: fw <3421351924@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://115.28.211.207/projects/"
 "endless-sky/endless-sky-source/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -2118,10 +2119,9 @@ msgstr "任务失败。"
 
 #. TRANSLATORS: This "vowel" determines whether 'A' or 'An' is used.
 #: MissionAction.cpp:38
-#, fuzzy
 msgctxt "MissionAction"
 msgid "aeiou"
-msgstr "aeiou"
+msgstr ""
 
 #. TRANSLATORS: Indefinite article of an outfit.
 #: MissionAction.cpp:40
